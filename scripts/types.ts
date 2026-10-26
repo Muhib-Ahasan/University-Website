@@ -22,6 +22,7 @@ export interface UniversityRecord {
   wikipediaUrl: string;
   established?: number;
   campusSetting?: string;
+  qsRank?: number | null;
 }
 
 export interface FlareSolverrRequest {

@@ -21,6 +21,7 @@ export function exportToJson(data: unknown, filename: string): void {
 
 export function exportToCsv(universities: UniversityRecord[], filename: string): void {
   const headers = [
+    "QS Rank",
     "Name",
     "Engineering School",
     "City",
@@ -35,6 +36,7 @@ export function exportToCsv(universities: UniversityRecord[], filename: string):
   ];
 
   const rows = universities.map((u) => [
+    u.qsRank ? `"${u.qsRank}"` : `"Unranked"`,
     `"${u.name.replace(/"/g, '""')}"`,
     `"${(u.engineeringSchool || "").replace(/"/g, '""')}"`,
     `"${u.location.city.replace(/"/g, '""')}"`,

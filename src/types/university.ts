@@ -22,7 +22,10 @@ export interface UniversityRecord {
   wikipediaUrl: string;
   established?: number;
   campusSetting?: string;
+  qsRank?: number | null;
 }
+
+export type SortOption = "QS_ASC" | "QS_DESC" | "NAME_ASC" | "NAME_DESC";
 
 export interface FilterState {
   searchQuery: string;
@@ -31,4 +34,6 @@ export interface FilterState {
   state: string;
   discipline: string;
   carnegieTier: "ALL" | "R1" | "R2" | "TECH";
+  sortBy: SortOption;
+  rankFilter: "ALL" | "TOP_100" | "TOP_300" | "TOP_500" | "RANKED" | "UNRANKED";
 }

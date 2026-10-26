@@ -15,6 +15,8 @@ const initialFilters: FilterState = {
   state: "ALL",
   discipline: "ALL",
   carnegieTier: "ALL",
+  sortBy: "QS_ASC",
+  rankFilter: "ALL",
 };
 
 export function App() {
@@ -33,9 +35,9 @@ export function App() {
     return Array.from(states).sort();
   }, [universities]);
 
-  // Filtered universities
+  // Filtered and sorted universities
   const filteredUniversities = useMemo(() => {
-    return universities.filter((u) => {
+    const result = universities.filter((u) => {
       // Search query filter
       if (filters.searchQuery.trim() !== "") {
         const query = filters.searchQuery.toLowerCase().trim();
@@ -67,7 +69,49 @@ export function App() {
         return false;
       }
 
+      // QS Rank Range filter
+      if (filters.rankFilter === "TOP_100") {
+        if (!u.qsRank || u.qsRank > 100) return false;
+      } else if (filters.rankFilter === "TOP_300") {
+        if (!u.qsRank || u.qsRank > 300) return false;
+      } else if (filters.rankFilter === "TOP_500") {
+        if (!u.qsRank || u.qsRank > 500) return false;
+      } else if (filters.rankFilter === "RANKED") {
+        if (!u.qsRank) return false;
+      } else if (filters.rankFilter === "UNRANKED") {
+        if (u.qsRank) return false;
+      }
+
       return true;
+    });
+
+    // Sorting
+    return result.sort((a, b) => {
+      if (filters.sortBy === "QS_ASC") {
+        // High rank to low rank (#1, #4, #6... at top, unranked at bottom)
+        const rankA = a.qsRank ?? 999999;
+        const rankB = b.qsRank ?? 999999;
+        if (rankA !== rankB) return rankA - rankB;
+        return a.name.localeCompare(b.name);
+      }
+
+      if (filters.sortBy === "QS_DESC") {
+        // Low rank to high rank (unranked or highest numbers first)
+        const rankA = a.qsRank ?? -1;
+        const rankB = b.qsRank ?? -1;
+        if (rankA !== rankB) return rankB - rankA;
+        return a.name.localeCompare(b.name);
+      }
+
+      if (filters.sortBy === "NAME_ASC") {
+        return a.name.localeCompare(b.name);
+      }
+
+      if (filters.sortBy === "NAME_DESC") {
+        return b.name.localeCompare(a.name);
+      }
+
+      return 0;
     });
   }, [universities, filters]);
 
@@ -102,7 +146,8 @@ export function App() {
               No matching universities found
             </h3>
             <p className="text-xs text-muted-foreground mt-1 max-w-sm mx-auto">
-              Try adjusting your search terms or clearing the selected filters to see more results.
+              Try adjusting your search terms, ranking filters, or degree criteria to see more
+              results.
             </p>
             <button
               type="button"
@@ -117,8 +162,8 @@ export function App() {
 
       <footer className="border-t border-border/60 py-6 text-center text-xs text-muted-foreground">
         <p>
-          USA University Engineering Guide &bull; Data extracted from Wikipedia &bull; FlareSolverr
-          Proxy Integrated
+          USA University Engineering Guide &bull; Official Verified Websites &bull; QS World
+          Rankings &bull; FlareSolverr Proxy Integrated
         </p>
       </footer>
 

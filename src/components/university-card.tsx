@@ -1,4 +1,4 @@
-import { ExternalLink, Globe, MapPin, School } from "lucide-react";
+import { ExternalLink, Globe, MapPin, School, Trophy } from "lucide-react";
 import type { FC } from "react";
 import type { UniversityRecord } from "../types/university";
 
@@ -18,7 +18,7 @@ export const UniversityCard: FC<UniversityCardProps> = ({ university, onSelect }
         );
       case "MSc Only":
         return (
-          <span className="inline-flex items-center px-2 py-0.5 rounded-full text-[11px] font-semibold bg-amber-500/15 text-amber-400 border border-amber-500/30">
+          <span className="inline-flex items-center px-2 py-0.5 rounded-full text-[11px] font-semibold bg-sky-500/15 text-sky-400 border border-sky-500/30">
             MSc Only
           </span>
         );
@@ -31,6 +31,33 @@ export const UniversityCard: FC<UniversityCardProps> = ({ university, onSelect }
     }
   };
 
+  const getQsBadge = () => {
+    if (!university.qsRank) return null;
+
+    if (university.qsRank <= 50) {
+      return (
+        <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[11px] font-bold bg-amber-400/20 text-amber-300 border border-amber-400/40 shadow-sm shadow-amber-400/10">
+          <Trophy className="h-3 w-3 text-amber-400" />
+          <span>QS #{university.qsRank}</span>
+        </span>
+      );
+    }
+
+    if (university.qsRank <= 250) {
+      return (
+        <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[11px] font-semibold bg-amber-500/15 text-amber-400 border border-amber-500/30">
+          <span>QS #{university.qsRank}</span>
+        </span>
+      );
+    }
+
+    return (
+      <span className="inline-flex items-center px-2 py-0.5 rounded-full text-[10px] font-medium bg-muted text-muted-foreground border border-border">
+        QS #{university.qsRank}
+      </span>
+    );
+  };
+
   return (
     <div className="group bg-card border border-border hover:border-primary/50 rounded-xl p-4 flex flex-col justify-between transition-all duration-200 hover:shadow-lg hover:shadow-primary/5 w-full">
       <div>
@@ -38,12 +65,13 @@ export const UniversityCard: FC<UniversityCardProps> = ({ university, onSelect }
         <div className="flex items-center justify-between gap-2 mb-2.5">
           <div className="flex items-center gap-1.5 flex-wrap">
             {getDegreeBadge()}
+            {getQsBadge()}
             <span className="inline-flex items-center px-2 py-0.5 rounded-full text-[10px] font-medium bg-muted text-muted-foreground border border-border">
               {university.control}
             </span>
           </div>
 
-          <span className="text-[10px] font-medium text-muted-foreground truncate max-w-[130px]">
+          <span className="text-[10px] font-medium text-muted-foreground truncate max-w-[110px]">
             {university.carnegieClassification?.split(":")[0] || "University"}
           </span>
         </div>
@@ -112,10 +140,10 @@ export const UniversityCard: FC<UniversityCardProps> = ({ university, onSelect }
             href={university.website}
             target="_blank"
             rel="noopener noreferrer"
-            title="Official University Website"
+            title={`Visit Official Website: ${university.website}`}
             className="p-1.5 rounded-md hover:bg-muted text-muted-foreground hover:text-foreground transition-colors"
           >
-            <Globe className="h-3.5 w-3.5" />
+            <Globe className="h-3.5 w-3.5 text-primary" />
           </a>
           <a
             href={university.wikipediaUrl}
