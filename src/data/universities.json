@@ -80,7 +80,8 @@
     "website": "https://www.baylor.edu",
     "engineeringWebsite": "https://www.baylor.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Baylor_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "School of Engineering and Computer Science"
   },
   {
     "id": "binghamton-university",
@@ -107,34 +108,8 @@
     "website": "https://www.binghamton.edu",
     "engineeringWebsite": "https://www.binghamton.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Binghamton_University",
-    "qsRank": null
-  },
-  {
-    "id": "boston-college",
-    "name": "Boston College",
-    "location": {
-      "city": "Chestnut Hill",
-      "state": "MA",
-      "stateName": "Massachusetts"
-    },
-    "control": "Private",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Boston College (BC) is a private Catholic Jesuit research university in Chestnut Hill, Massachusetts, United States. Founded in 1863 by the Society of Jesus, a Catholic religious order, the university has more than 15,000 total students, making it the seventh largest Catholic university in the U.S. by enrollment.",
-    "website": "https://www.bc.edu",
-    "engineeringWebsite": "https://www.bc.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Boston_College",
-    "qsRank": 282
+    "qsRank": 801,
+    "engineeringSchool": "Thomas J. Watson College of Engineering and Applied Science"
   },
   {
     "id": "boston-university",
@@ -189,7 +164,8 @@
     "website": "https://www.byu.edu",
     "engineeringWebsite": "https://www.byu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Brigham_Young_University",
-    "qsRank": 1001
+    "qsRank": 1001,
+    "engineeringSchool": "Ira A. Fulton College of Engineering"
   },
   {
     "id": "brown-university",
@@ -325,10 +301,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "The Catholic University of America (CUA) is a private Catholic research university in Washington, D.C., United States. It is one of two pontifical universities of the Catholic Church in the United States – the only one that is not primarily a seminary – and the only institution of higher education founded by the United States Conference of Catholic Bishops. Established in 1887 as a graduate and research center following approval by Pope Leo XIII, the university began offering undergraduate education in 1904. In the Carnegie Classification of Institutions of Higher Education, it is classified as an R1 university.",
-    "website": "https://www.catholic.edu",
-    "engineeringWebsite": "https://www.catholic.edu/engineering",
+    "website": "https://engineering.catholic.edu",
+    "engineeringWebsite": "https://engineering.catholic.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Catholic_University_of_America",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "CUA School of Engineering"
   },
   {
     "id": "clemson-university",
@@ -411,7 +388,8 @@
     "website": "https://www.colostate.edu",
     "engineeringWebsite": "https://www.colostate.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Colorado_State_University",
-    "qsRank": 365
+    "qsRank": 365,
+    "engineeringSchool": "Walter Scott, Jr. College of Engineering"
   },
   {
     "id": "columbia-university-in-the-city-of-new-york",
@@ -438,7 +416,8 @@
     "website": "https://www.columbia.edu",
     "engineeringWebsite": "https://www.columbia.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Columbia_University",
-    "qsRank": 22
+    "qsRank": 22,
+    "engineeringSchool": "Fu Foundation School of Engineering and Applied Science"
   },
   {
     "id": "cornell-university",
@@ -467,33 +446,6 @@
     "engineeringWebsite": "https://www.cornell.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornell_University",
     "qsRank": 13
-  },
-  {
-    "id": "cuny-graduate-school-and-university-center",
-    "name": "CUNY Graduate School and University Center",
-    "location": {
-      "city": "New York",
-      "state": "NY",
-      "stateName": "New York"
-    },
-    "control": "Public",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The Graduate School and University Center of the City University of New York is a public research institution and postgraduate university in New York City. Formed in 1961 as Division of Graduate Studies at City University of New York, it was renamed to Graduate School and University Center in 1969. Serving as the principal doctorate-granting institution of the City University of New York (CUNY) system, CUNY Graduate Center is classified as \"R1: Doctoral University–Very High Spending and Doctorate Production\".",
-    "website": "https://www.gc.cuny.edu",
-    "engineeringWebsite": "https://www.gc.cuny.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/CUNY_Graduate_Center",
-    "qsRank": null
   },
   {
     "id": "dartmouth-college",
@@ -590,10 +542,9 @@
     "control": "Public",
     "carnegieClassification": "R1: Very High Research Activity",
     "degreeLevels": [
-      "MSc",
-      "PhD"
+      "MSc"
     ],
-    "degreeType": "Both",
+    "degreeType": "MSc Only",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -604,34 +555,8 @@
     "website": "https://www.ecu.edu",
     "engineeringWebsite": "https://www.ecu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/East_Carolina_University",
-    "qsRank": null
-  },
-  {
-    "id": "emory-university",
-    "name": "Emory University",
-    "location": {
-      "city": "Atlanta",
-      "state": "GA",
-      "stateName": "Georgia"
-    },
-    "control": "Private",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Emory University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://emory.edu",
-    "engineeringWebsite": "https://emory.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Emory_University",
-    "qsRank": 196
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering and Technology"
   },
   {
     "id": "florida-atlantic-university",
@@ -658,7 +583,8 @@
     "website": "https://www.fau.edu",
     "engineeringWebsite": "https://www.fau.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Florida_Atlantic_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "College of Engineering and Computer Science"
   },
   {
     "id": "florida-international-university",
@@ -686,7 +612,7 @@
     "website": "https://www.fiu.edu",
     "engineeringWebsite": "https://www.fiu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Florida_International_University",
-    "qsRank": 556
+    "qsRank": 751
   },
   {
     "id": "florida-state-university",
@@ -769,11 +695,12 @@
     "website": "https://www.gwu.edu",
     "engineeringWebsite": "https://www.gwu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Washington_University",
-    "qsRank": 300
+    "qsRank": 362,
+    "engineeringSchool": "School of Engineering and Applied Science"
   },
   {
     "id": "georgia-institute-of-technology-main-campus",
-    "name": "Georgia Institute of Technology-Main Campus",
+    "name": "Georgia Institute of Technology",
     "location": {
       "city": "Atlanta",
       "state": "GA",
@@ -796,7 +723,8 @@
     "website": "https://www.gatech.edu",
     "engineeringWebsite": "https://www.gatech.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Georgia_Tech",
-    "qsRank": 114
+    "qsRank": 114,
+    "engineeringSchool": "Georgia Tech College of Engineering"
   },
   {
     "id": "harvard-university",
@@ -851,7 +779,8 @@
     "website": "https://indianapolis.iu.edu",
     "engineeringWebsite": "https://indianapolis.iu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Indiana_University_Indianapolis",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Purdue School of Engineering and Technology"
   },
   {
     "id": "iowa-state-university",
@@ -934,7 +863,8 @@
     "website": "https://www.k-state.edu",
     "engineeringWebsite": "https://www.k-state.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Kansas_State_University",
-    "qsRank": null
+    "qsRank": 401,
+    "engineeringSchool": "Carl R. Ice College of Engineering"
   },
   {
     "id": "kent-state-university-at-kent",
@@ -961,7 +891,8 @@
     "website": "https://www.kent.edu",
     "engineeringWebsite": "https://www.kent.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Kent_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Aeronautics and Engineering"
   },
   {
     "id": "lehigh-university",
@@ -989,7 +920,7 @@
     "website": "https://www.lehigh.edu",
     "engineeringWebsite": "https://www.lehigh.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Lehigh_University",
-    "qsRank": 548
+    "qsRank": 501
   },
   {
     "id": "louisiana-state-university-and-agricultural-mechanical-college",
@@ -1016,34 +947,8 @@
     "website": "https://www.lsu.edu",
     "engineeringWebsite": "https://www.lsu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Louisiana_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "loyola-university-chicago",
-    "name": "Loyola University Chicago",
-    "location": {
-      "city": "Chicago",
-      "state": "IL",
-      "stateName": "Illinois"
-    },
-    "control": "Private",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Loyola University Chicago is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.luc.edu",
-    "engineeringWebsite": "https://www.luc.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Loyola_University_Chicago",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "LSU College of Engineering"
   },
   {
     "id": "massachusetts-institute-of-technology",
@@ -1127,7 +1032,7 @@
     "website": "https://www.mtu.edu",
     "engineeringWebsite": "https://www.mtu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Michigan_Technological_University",
-    "qsRank": null
+    "qsRank": 651
   },
   {
     "id": "mississippi-state-university",
@@ -1154,7 +1059,8 @@
     "website": "https://www.msstate.edu",
     "engineeringWebsite": "https://www.msstate.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Mississippi_State_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "James Worth Bagley College of Engineering"
   },
   {
     "id": "missouri-university-of-science-and-technology",
@@ -1182,7 +1088,7 @@
     "website": "https://www.mst.edu",
     "engineeringWebsite": "https://www.mst.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Missouri_University_of_Science_and_Technology",
-    "qsRank": 480
+    "qsRank": 551
   },
   {
     "id": "montana-state-university",
@@ -1209,7 +1115,8 @@
     "website": "https://www.montana.edu",
     "engineeringWebsite": "https://www.montana.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Montana_State_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Norm Asbjornson College of Engineering"
   },
   {
     "id": "new-jersey-institute-of-technology",
@@ -1237,7 +1144,7 @@
     "website": "https://www.njit.edu",
     "engineeringWebsite": "https://www.njit.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Jersey_Institute_of_Technology",
-    "qsRank": null
+    "qsRank": 651
   },
   {
     "id": "new-mexico-state-university-main-campus",
@@ -1264,7 +1171,8 @@
     "website": "https://www.nmsu.edu",
     "engineeringWebsite": "https://www.nmsu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Mexico_State_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "NMSU College of Engineering"
   },
   {
     "id": "new-york-university",
@@ -1316,10 +1224,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "North Carolina State University is a public land-grant research university in Raleigh, North Carolina, United States. Founded in 1887 by the North Carolina General Assembly as an agricultural and mechanical college, it is the largest university in the Carolinas and a constituent institution of the University of North Carolina system.",
-    "website": "https://ncsu.edu",
-    "engineeringWebsite": "https://ncsu.edu/engineering",
+    "website": "https://www.ncsu.edu",
+    "engineeringWebsite": "https://www.ncsu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/North_Carolina_State_University",
-    "qsRank": 274
+    "qsRank": 274,
+    "engineeringSchool": "NC State College of Engineering"
   },
   {
     "id": "north-dakota-state-university-main-campus",
@@ -1346,7 +1255,8 @@
     "website": "https://www.ndsu.edu",
     "engineeringWebsite": "https://www.ndsu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/North_Dakota_State_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "NDSU College of Engineering"
   },
   {
     "id": "northeastern-university",
@@ -1398,7 +1308,8 @@
     "website": "https://nau.edu",
     "engineeringWebsite": "https://nau.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_Arizona_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "College of Engineering, Informatics, and Applied Sciences"
   },
   {
     "id": "northwestern-university",
@@ -1429,35 +1340,8 @@
     "qsRank": 40
   },
   {
-    "id": "nova-southeastern-university",
-    "name": "Nova Southeastern University",
-    "location": {
-      "city": "Fort Lauderdale",
-      "state": "FL",
-      "stateName": "Florida"
-    },
-    "control": "Private",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Nova Southeastern University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.nova.edu/index.html",
-    "engineeringWebsite": "https://www.nova.edu/index.html/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nova_Southeastern_University",
-    "qsRank": null
-  },
-  {
     "id": "the-ohio-state-university-main-campus",
-    "name": "The Ohio State University-Main Campus",
+    "name": "Ohio State University",
     "location": {
       "city": "Columbus",
       "state": "OH",
@@ -1480,7 +1364,8 @@
     "website": "https://osu.edu",
     "engineeringWebsite": "https://osu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Ohio_State_University",
-    "qsRank": 86
+    "qsRank": 86,
+    "engineeringSchool": "The Ohio State University-Main Campus College of Engineering"
   },
   {
     "id": "ohio-university-main-campus",
@@ -1507,7 +1392,8 @@
     "website": "https://www.ohio.edu",
     "engineeringWebsite": "https://www.ohio.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Ohio_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Russ College of Engineering and Technology"
   },
   {
     "id": "oklahoma-state-university",
@@ -1534,7 +1420,8 @@
     "website": "https://go.okstate.edu",
     "engineeringWebsite": "https://go.okstate.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Oklahoma_State_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "College of Engineering, Architecture and Technology"
   },
   {
     "id": "old-dominion-university",
@@ -1561,7 +1448,8 @@
     "website": "https://www.odu.edu",
     "engineeringWebsite": "https://www.odu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Old_Dominion_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Batten College of Engineering & Technology"
   },
   {
     "id": "oregon-state-university",
@@ -1725,10 +1613,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Rutgers University-New Brunswick is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.rutgers.edu",
-    "engineeringWebsite": "http://www.rutgers.edu/engineering",
+    "website": "https://www.rutgers.edu",
+    "engineeringWebsite": "https://www.rutgers.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Rutgers_University–New_Brunswick",
-    "qsRank": 267
+    "qsRank": 267,
+    "engineeringSchool": "Rutgers School of Engineering"
   },
   {
     "id": "saint-louis-university",
@@ -1755,7 +1644,8 @@
     "website": "https://www.slu.edu",
     "engineeringWebsite": "https://www.slu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_Louis_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Parks College of Engineering, Aviation and Technology"
   },
   {
     "id": "san-diego-state-university",
@@ -1810,7 +1700,8 @@
     "website": "https://siu.edu",
     "engineeringWebsite": "https://siu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Southern_Illinois_University_Carbondale",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering, Computing, Technology, and Mathematics"
   },
   {
     "id": "southern-methodist-university",
@@ -1837,7 +1728,8 @@
     "website": "https://www.smu.edu",
     "engineeringWebsite": "https://www.smu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Southern_Methodist_University",
-    "qsRank": null
+    "qsRank": 751,
+    "engineeringSchool": "Lyle School of Engineering"
   },
   {
     "id": "stanford-university",
@@ -1892,7 +1784,8 @@
     "website": "https://www.stonybrook.edu",
     "engineeringWebsite": "https://www.stonybrook.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Stony_Brook_University",
-    "qsRank": 452
+    "qsRank": 396,
+    "engineeringSchool": "College of Engineering and Applied Sciences"
   },
   {
     "id": "syracuse-university",
@@ -1919,7 +1812,8 @@
     "website": "https://www.syracuse.edu",
     "engineeringWebsite": "https://www.syracuse.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Syracuse_University",
-    "qsRank": 751
+    "qsRank": 751,
+    "engineeringSchool": "College of Engineering and Computer Science"
   },
   {
     "id": "temple-university",
@@ -1946,11 +1840,12 @@
     "website": "https://www.temple.edu",
     "engineeringWebsite": "https://www.temple.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Temple_University",
-    "qsRank": null
+    "qsRank": 701,
+    "engineeringSchool": "Temple University College of Engineering"
   },
   {
     "id": "texas-a-m-university-college-station",
-    "name": "Texas A & M University-College Station",
+    "name": "Texas A&M University",
     "location": {
       "city": "College Station",
       "state": "TX",
@@ -1973,7 +1868,8 @@
     "website": "https://www.tamu.edu",
     "engineeringWebsite": "https://www.tamu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_A&M_University",
-    "qsRank": 134
+    "qsRank": 154,
+    "engineeringSchool": "Texas A&M College of Engineering"
   },
   {
     "id": "texas-tech-university",
@@ -2000,11 +1896,12 @@
     "website": "https://www.ttu.edu",
     "engineeringWebsite": "https://www.ttu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_Tech_University",
-    "qsRank": null
+    "qsRank": 751,
+    "engineeringSchool": "Edward E. Whitacre Jr. College of Engineering"
   },
   {
     "id": "the-pennsylvania-state-university",
-    "name": "The Pennsylvania State University",
+    "name": "Penn State University",
     "location": {
       "city": "University Park",
       "state": "PA",
@@ -2027,7 +1924,8 @@
     "website": "https://www.the-pennsylvania-state.edu",
     "engineeringWebsite": "https://www.the-pennsylvania-state.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Pennsylvania_State_University",
-    "qsRank": 82
+    "qsRank": 82,
+    "engineeringSchool": "The Pennsylvania State University College of Engineering"
   },
   {
     "id": "the-university-of-alabama",
@@ -2054,61 +1952,8 @@
     "website": "https://www.ua.edu",
     "engineeringWebsite": "https://www.ua.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Alabama",
-    "qsRank": null
-  },
-  {
-    "id": "the-university-of-montana",
-    "name": "The University of Montana",
-    "location": {
-      "city": "Missoula",
-      "state": "MT",
-      "stateName": "Montana"
-    },
-    "control": "Public",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The University of Montana is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.umt.edu",
-    "engineeringWebsite": "https://www.umt.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Montana",
-    "qsRank": null
-  },
-  {
-    "id": "the-university-of-tennessee-health-science-center",
-    "name": "The University of Tennessee Health Science Center",
-    "location": {
-      "city": "Memphis",
-      "state": "TN",
-      "stateName": "Tennessee"
-    },
-    "control": "Public",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The University of Tennessee Health Science Center is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.the-of-tennessee-health-science-center.edu",
-    "engineeringWebsite": "https://www.the-of-tennessee-health-science-center.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Tennessee_Health_Science_Center",
-    "qsRank": null
+    "qsRank": 751,
+    "engineeringSchool": "University of Alabama College of Engineering"
   },
   {
     "id": "the-university-of-tennessee-knoxville",
@@ -2135,7 +1980,8 @@
     "website": "https://www.utk.edu",
     "engineeringWebsite": "https://www.utk.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Tennessee",
-    "qsRank": null
+    "qsRank": 501,
+    "engineeringSchool": "Tickle College of Engineering"
   },
   {
     "id": "the-university-of-texas-at-arlington",
@@ -2159,14 +2005,15 @@
       "Civil & Environmental Engineering"
     ],
     "description": "The University of Texas at Arlington is a public research university in Arlington, Texas, United States. It is the second oldest university in the University of Texas System and was founded in 1895. It was in the Texas A&M University System for several decades until joining the University of Texas System in 1965.",
-    "website": "http://www.uta.edu",
-    "engineeringWebsite": "http://www.uta.edu/engineering",
+    "website": "https://www.uta.edu",
+    "engineeringWebsite": "https://www.uta.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Texas_at_Arlington",
-    "qsRank": 701
+    "qsRank": 701,
+    "engineeringSchool": "UTA College of Engineering"
   },
   {
     "id": "the-university-of-texas-at-austin",
-    "name": "The University of Texas at Austin",
+    "name": "University of Texas at Austin",
     "location": {
       "city": "Austin",
       "state": "TX",
@@ -2189,7 +2036,8 @@
     "website": "https://www.utexas.edu",
     "engineeringWebsite": "https://www.utexas.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Texas_at_Austin",
-    "qsRank": 58
+    "qsRank": 58,
+    "engineeringSchool": "The University of Texas at Austin College of Engineering"
   },
   {
     "id": "the-university-of-texas-at-dallas",
@@ -2216,7 +2064,8 @@
     "website": "https://www.utdallas.edu",
     "engineeringWebsite": "https://www.utdallas.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Texas_at_Dallas",
-    "qsRank": 520
+    "qsRank": 520,
+    "engineeringSchool": "Erik Jonsson School of Engineering and Computer Science"
   },
   {
     "id": "the-university-of-texas-at-el-paso",
@@ -2243,7 +2092,8 @@
     "website": "https://www.utep.edu",
     "engineeringWebsite": "https://www.utep.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Texas_at_El_Paso",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "UTEP College of Engineering"
   },
   {
     "id": "the-university-of-texas-at-san-antonio",
@@ -2267,91 +2117,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "The University of Texas at San Antonio is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.utsa.edu",
-    "engineeringWebsite": "http://www.utsa.edu/engineering",
+    "website": "https://www.utsa.edu",
+    "engineeringWebsite": "https://www.utsa.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Texas_at_San_Antonio",
-    "qsRank": null
-  },
-  {
-    "id": "the-university-of-texas-health-science-center-at-houston",
-    "name": "The University of Texas Health Science Center at Houston",
-    "location": {
-      "city": "Houston",
-      "state": "TX",
-      "stateName": "Texas"
-    },
-    "control": "Public",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The University of Texas Health Science Center at Houston is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.uth.edu",
-    "engineeringWebsite": "https://www.uth.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Texas_Health_Science_Center_at_Houston",
-    "qsRank": null
-  },
-  {
-    "id": "the-university-of-texas-health-science-center-at-san-antonio",
-    "name": "The University of Texas Health Science Center at San Antonio",
-    "location": {
-      "city": "San Antonio",
-      "state": "TX",
-      "stateName": "Texas"
-    },
-    "control": "Public",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The University of Texas Health Science Center at San Antonio is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.uthscsa.edu",
-    "engineeringWebsite": "http://www.uthscsa.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Texas_Health_Science_Center_at_San_Antonio",
-    "qsRank": null
-  },
-  {
-    "id": "the-university-of-texas-southwestern-medical-center",
-    "name": "The University of Texas Southwestern Medical Center",
-    "location": {
-      "city": "Dallas",
-      "state": "TX",
-      "stateName": "Texas"
-    },
-    "control": "Public",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The University of Texas Southwestern Medical Center is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.the-of-texas-southwestern-medical-center.edu",
-    "engineeringWebsite": "https://www.the-of-texas-southwestern-medical-center.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Texas_Southwestern_Medical_Center",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "UTSA Klesse College of Engineering and Integrated Design"
   },
   {
     "id": "tufts-university",
@@ -2406,7 +2176,8 @@
     "website": "https://tulane.edu",
     "engineeringWebsite": "https://tulane.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Tulane_University",
-    "qsRank": 309
+    "qsRank": 601,
+    "engineeringSchool": "School of Science and Engineering"
   },
   {
     "id": "university-at-albany",
@@ -2433,7 +2204,8 @@
     "website": "https://www.albany.edu",
     "engineeringWebsite": "https://www.albany.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_at_Albany",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "College of Nanotechnology, Science, and Engineering"
   },
   {
     "id": "university-at-buffalo",
@@ -2460,7 +2232,8 @@
     "website": "https://www.buffalo.edu",
     "engineeringWebsite": "https://www.buffalo.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_at_Buffalo",
-    "qsRank": 388
+    "qsRank": 491,
+    "engineeringSchool": "School of Engineering and Applied Sciences"
   },
   {
     "id": "university-of-alabama-at-birmingham",
@@ -2487,7 +2260,8 @@
     "website": "https://www.uab.edu",
     "engineeringWebsite": "https://www.uab.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham",
-    "qsRank": null
+    "qsRank": 751,
+    "engineeringSchool": "UAB School of Engineering"
   },
   {
     "id": "university-of-arizona",
@@ -2542,7 +2316,8 @@
     "website": "https://www.uark.edu",
     "engineeringWebsite": "https://www.uark.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Arkansas",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "University of Arkansas College of Engineering"
   },
   {
     "id": "university-of-california-berkeley",
@@ -2681,7 +2456,8 @@
     "website": "https://www.ucmerced.edu",
     "engineeringWebsite": "https://www.ucmerced.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_California,_Merced",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "UC Merced School of Engineering"
   },
   {
     "id": "university-of-california-riverside",
@@ -2818,8 +2594,8 @@
       "Civil & Environmental Engineering"
     ],
     "description": "University of Central Florida is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.ucf.edu",
-    "engineeringWebsite": "http://www.ucf.edu/engineering",
+    "website": "https://www.ucf.edu",
+    "engineeringWebsite": "https://www.ucf.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Central_Florida",
     "qsRank": 571
   },
@@ -2848,7 +2624,8 @@
     "website": "https://www.uchicago.edu",
     "engineeringWebsite": "https://www.uchicago.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Chicago",
-    "qsRank": 11
+    "qsRank": 11,
+    "engineeringSchool": "Pritzker School of Molecular Engineering"
   },
   {
     "id": "university-of-cincinnati",
@@ -2931,7 +2708,8 @@
     "website": "https://www.ucdenver.edu",
     "engineeringWebsite": "https://www.ucdenver.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Anschutz_Medical_Campus",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "College of Engineering, Design and Computing"
   },
   {
     "id": "university-of-connecticut",
@@ -2958,7 +2736,8 @@
     "website": "https://uconn.edu",
     "engineeringWebsite": "https://uconn.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Connecticut",
-    "qsRank": 501
+    "qsRank": 501,
+    "engineeringSchool": "UConn College of Engineering"
   },
   {
     "id": "university-of-dayton",
@@ -2985,7 +2764,8 @@
     "website": "https://udayton.edu",
     "engineeringWebsite": "https://udayton.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Dayton",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "University of Dayton School of Engineering"
   },
   {
     "id": "university-of-delaware",
@@ -3040,7 +2820,8 @@
     "website": "https://www.du.edu",
     "engineeringWebsite": "https://www.du.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Denver",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Ritchie School of Engineering and Computer Science"
   },
   {
     "id": "university-of-florida",
@@ -3095,7 +2876,8 @@
     "website": "https://www.uga.edu",
     "engineeringWebsite": "https://www.uga.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Georgia",
-    "qsRank": null
+    "qsRank": 551,
+    "engineeringSchool": "UGA College of Engineering"
   },
   {
     "id": "university-of-hawaii-at-manoa",
@@ -3122,7 +2904,8 @@
     "website": "https://manoa.hawaii.edu",
     "engineeringWebsite": "https://manoa.hawaii.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Hawaiʻi_at_Mānoa",
-    "qsRank": 283
+    "qsRank": 551,
+    "engineeringSchool": "UH Manoa College of Engineering"
   },
   {
     "id": "university-of-houston",
@@ -3177,7 +2960,8 @@
     "website": "https://www.uidaho.edu",
     "engineeringWebsite": "https://www.uidaho.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Idaho",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "University of Idaho College of Engineering"
   },
   {
     "id": "university-of-illinois-chicago",
@@ -3204,7 +2988,8 @@
     "website": "https://www.uic.edu",
     "engineeringWebsite": "https://www.uic.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Illinois_Chicago",
-    "qsRank": 323
+    "qsRank": 323,
+    "engineeringSchool": "UIC College of Engineering"
   },
   {
     "id": "university-of-illinois-urbana-champaign",
@@ -3260,7 +3045,7 @@
     "website": "https://uiowa.edu",
     "engineeringWebsite": "https://uiowa.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Iowa",
-    "qsRank": 455
+    "qsRank": 451
   },
   {
     "id": "university-of-kansas",
@@ -3343,7 +3128,8 @@
     "website": "https://louisiana.edu",
     "engineeringWebsite": "https://louisiana.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Louisiana_at_Lafayette",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "UL Lafayette College of Engineering"
   },
   {
     "id": "university-of-louisville",
@@ -3371,12 +3157,12 @@
     "website": "https://louisville.edu",
     "engineeringWebsite": "https://louisville.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Louisville",
-    "qsRank": null
+    "qsRank": 751
   },
   {
     "id": "university-of-maine",
     "name": "University of Maine",
-    "engineeringSchool": "University of Maine College of Engineering",
+    "engineeringSchool": "College of Engineering and Computing",
     "location": {
       "city": "Orono",
       "state": "ME",
@@ -3399,7 +3185,7 @@
     "website": "https://umaine.edu",
     "engineeringWebsite": "https://umaine.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Maine",
-    "qsRank": null
+    "qsRank": 801
   },
   {
     "id": "university-of-maryland-baltimore-county",
@@ -3423,10 +3209,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "The University of Maryland, Baltimore County (UMBC) is a public research university in Catonsville, Maryland, United States. It had a fall 2025 enrollment of 13,530 students. In 2019, it had 61 undergraduate majors, over 92 graduate programs and the first university research park in Maryland. It is classified among \"R1: Doctoral Universities – Very High Research Activity\".",
-    "website": "https://www.umbc.edu",
-    "engineeringWebsite": "https://www.umbc.edu/engineering",
+    "website": "https://umbc.edu",
+    "engineeringWebsite": "https://umbc.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Maryland,_Baltimore_County",
-    "qsRank": 453
+    "qsRank": 751,
+    "engineeringSchool": "UMBC College of Engineering and Information Technology"
   },
   {
     "id": "university-of-maryland-college-park",
@@ -3453,7 +3240,8 @@
     "website": "https://umd.edu",
     "engineeringWebsite": "https://umd.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park",
-    "qsRank": 169
+    "qsRank": 169,
+    "engineeringSchool": "A. James Clark School of Engineering"
   },
   {
     "id": "university-of-massachusetts-amherst",
@@ -3480,34 +3268,8 @@
     "website": "https://www.umass.edu",
     "engineeringWebsite": "https://www.umass.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst",
-    "qsRank": 245
-  },
-  {
-    "id": "university-of-massachusetts-boston",
-    "name": "University of Massachusetts-Boston",
-    "location": {
-      "city": "Boston",
-      "state": "MA",
-      "stateName": "Massachusetts"
-    },
-    "control": "Public",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The University of Massachusetts Boston is a public university in Boston, Massachusetts, United States.",
-    "website": "https://www.umb.edu",
-    "engineeringWebsite": "https://www.umb.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Massachusetts_Boston",
-    "qsRank": null
+    "qsRank": 275,
+    "engineeringSchool": "UMass Amherst College of Engineering"
   },
   {
     "id": "university-of-massachusetts-lowell",
@@ -3534,7 +3296,8 @@
     "website": "https://www.uml.edu",
     "engineeringWebsite": "https://www.uml.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Massachusetts_Lowell",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Francis College of Engineering"
   },
   {
     "id": "university-of-memphis",
@@ -3561,7 +3324,8 @@
     "website": "https://www.memphis.edu",
     "engineeringWebsite": "https://www.memphis.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Memphis",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Herff College of Engineering"
   },
   {
     "id": "university-of-miami",
@@ -3588,11 +3352,12 @@
     "website": "https://welcome.miami.edu",
     "engineeringWebsite": "https://welcome.miami.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Miami",
-    "qsRank": 296
+    "qsRank": 296,
+    "engineeringSchool": "University of Miami College of Engineering"
   },
   {
     "id": "university-of-michigan-ann-arbor",
-    "name": "University of Michigan-Ann Arbor",
+    "name": "University of Michigan",
     "location": {
       "city": "Ann Arbor",
       "state": "MI",
@@ -3615,7 +3380,8 @@
     "website": "https://umich.edu",
     "engineeringWebsite": "https://umich.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Michigan",
-    "qsRank": 27
+    "qsRank": 27,
+    "engineeringSchool": "University of Michigan-Ann Arbor College of Engineering"
   },
   {
     "id": "university-of-minnesota-twin-cities",
@@ -3642,7 +3408,8 @@
     "website": "https://twin-cities.umn.edu",
     "engineeringWebsite": "https://twin-cities.umn.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Minnesota",
-    "qsRank": 102
+    "qsRank": 195,
+    "engineeringSchool": "UMN College of Science and Engineering"
   },
   {
     "id": "university-of-mississippi",
@@ -3669,7 +3436,8 @@
     "website": "https://olemiss.edu",
     "engineeringWebsite": "https://olemiss.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Mississippi",
-    "qsRank": 317
+    "qsRank": 801,
+    "engineeringSchool": "Ole Miss School of Engineering"
   },
   {
     "id": "university-of-missouri-columbia",
@@ -3696,7 +3464,8 @@
     "website": "https://missouri.edu",
     "engineeringWebsite": "https://missouri.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Missouri",
-    "qsRank": null
+    "qsRank": 501,
+    "engineeringSchool": "Mizzou College of Engineering"
   },
   {
     "id": "university-of-missouri-kansas-city",
@@ -3723,34 +3492,8 @@
     "website": "https://www.umkc.edu",
     "engineeringWebsite": "https://www.umkc.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Missouri–Kansas_City",
-    "qsRank": null
-  },
-  {
-    "id": "university-of-nebraska-medical-center",
-    "name": "University of Nebraska Medical Center",
-    "location": {
-      "city": "Omaha",
-      "state": "NE",
-      "stateName": "Nebraska"
-    },
-    "control": "Public",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "University of Nebraska Medical Center is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.university-of-nebraska-medical-center.edu",
-    "engineeringWebsite": "https://www.university-of-nebraska-medical-center.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Nebraska_Medical_Center",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "School of Science and Engineering"
   },
   {
     "id": "university-of-nebraska-lincoln",
@@ -3777,7 +3520,8 @@
     "website": "https://www.unl.edu",
     "engineeringWebsite": "https://www.unl.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Nebraska–Lincoln",
-    "qsRank": 551
+    "qsRank": 551,
+    "engineeringSchool": "UNL College of Engineering"
   },
   {
     "id": "university-of-nevada-las-vegas",
@@ -3801,10 +3545,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "University of Nevada-Las Vegas is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://unlv.edu",
-    "engineeringWebsite": "https://unlv.edu/engineering",
+    "website": "https://www.unlv.edu",
+    "engineeringWebsite": "https://www.unlv.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Nevada,_Las_Vegas",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Howard R. Hughes College of Engineering"
   },
   {
     "id": "university-of-nevada-reno",
@@ -3831,7 +3576,8 @@
     "website": "https://www.unr.edu",
     "engineeringWebsite": "https://www.unr.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Nevada,_Reno",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "UNR College of Engineering"
   },
   {
     "id": "university-of-new-hampshire-main-campus",
@@ -3858,7 +3604,8 @@
     "website": "https://www.unh.edu",
     "engineeringWebsite": "https://www.unh.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_New_Hampshire",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "UNH College of Engineering and Physical Sciences"
   },
   {
     "id": "university-of-new-mexico-main-campus",
@@ -3885,34 +3632,8 @@
     "website": "https://www.unm.edu",
     "engineeringWebsite": "https://www.unm.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_New_Mexico",
-    "qsRank": 651
-  },
-  {
-    "id": "university-of-north-carolina-at-chapel-hill",
-    "name": "University of North Carolina at Chapel Hill",
-    "location": {
-      "city": "Chapel Hill",
-      "state": "NC",
-      "stateName": "North Carolina"
-    },
-    "control": "Public",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "University of North Carolina at Chapel Hill is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.unc.edu",
-    "engineeringWebsite": "https://www.unc.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill",
-    "qsRank": 132
+    "qsRank": 651,
+    "engineeringSchool": "UNM School of Engineering"
   },
   {
     "id": "university-of-north-carolina-at-charlotte",
@@ -3936,10 +3657,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "University of North Carolina at Charlotte is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://charlotte.edu",
-    "engineeringWebsite": "https://charlotte.edu/engineering",
+    "website": "https://www.charlotte.edu",
+    "engineeringWebsite": "https://www.charlotte.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Charlotte",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "William States Lee College of Engineering"
   },
   {
     "id": "university-of-north-dakota",
@@ -3963,10 +3685,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "University of North Dakota is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://und.edu",
-    "engineeringWebsite": "http://und.edu/engineering",
+    "website": "https://und.edu",
+    "engineeringWebsite": "https://und.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_North_Dakota",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "UND College of Engineering & Mines"
   },
   {
     "id": "university-of-north-texas",
@@ -3993,7 +3716,8 @@
     "website": "https://www.unt.edu",
     "engineeringWebsite": "https://www.unt.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_North_Texas",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "UNT College of Engineering"
   },
   {
     "id": "university-of-notre-dame",
@@ -4045,37 +3769,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "University of Oklahoma-Norman Campus is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.ou.edu",
-    "engineeringWebsite": "http://www.ou.edu/engineering",
+    "website": "https://www.ou.edu",
+    "engineeringWebsite": "https://www.ou.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Oklahoma",
-    "qsRank": 651
-  },
-  {
-    "id": "university-of-oregon",
-    "name": "University of Oregon",
-    "location": {
-      "city": "Eugene",
-      "state": "OR",
-      "stateName": "Oregon"
-    },
-    "control": "Public",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The University of Oregon is a public research university in Eugene, Oregon, United States. Founded in 1876, the university is organized into nine colleges and schools and offers 420 undergraduate and graduate degree programs. The university also operates the Ballmer Institute for Children's Behavioral Health in Portland, Oregon; the Oregon Institute of Marine Biology in Charleston, Oregon; and Pine Mountain Observatory in Central Oregon.",
-    "website": "https://uoregon.edu",
-    "engineeringWebsite": "https://uoregon.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Oregon",
-    "qsRank": null
+    "qsRank": 651,
+    "engineeringSchool": "Gallogly College of Engineering"
   },
   {
     "id": "university-of-pennsylvania",
@@ -4130,7 +3828,8 @@
     "website": "https://www.pitt.edu",
     "engineeringWebsite": "https://www.pitt.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Pittsburgh",
-    "qsRank": 222
+    "qsRank": 222,
+    "engineeringSchool": "Swanson School of Engineering"
   },
   {
     "id": "university-of-rhode-island",
@@ -4157,7 +3856,8 @@
     "website": "https://www.uri.edu",
     "engineeringWebsite": "https://www.uri.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Rhode_Island",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "URI College of Engineering"
   },
   {
     "id": "university-of-rochester",
@@ -4184,7 +3884,8 @@
     "website": "https://www.rochester.edu",
     "engineeringWebsite": "https://www.rochester.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Rochester",
-    "qsRank": 224
+    "qsRank": 224,
+    "engineeringSchool": "Hajim School of Engineering & Applied Sciences"
   },
   {
     "id": "university-of-south-carolina-columbia",
@@ -4211,7 +3912,8 @@
     "website": "https://sc.edu",
     "engineeringWebsite": "https://sc.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_South_Carolina",
-    "qsRank": 601
+    "qsRank": 601,
+    "engineeringSchool": "Molinaroli College of Engineering and Computing"
   },
   {
     "id": "university-of-south-florida",
@@ -4294,7 +3996,8 @@
     "website": "https://www.usm.edu",
     "engineeringWebsite": "https://www.usm.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Southern_Mississippi",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "School of Polymer Science and Engineering"
   },
   {
     "id": "university-of-toledo",
@@ -4321,7 +4024,8 @@
     "website": "https://www.utoledo.edu",
     "engineeringWebsite": "https://www.utoledo.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Toledo",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "UToledo College of Engineering"
   },
   {
     "id": "university-of-utah",
@@ -4376,7 +4080,8 @@
     "website": "https://www.uvm.edu",
     "engineeringWebsite": "https://www.uvm.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Vermont",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "UVM College of Engineering and Mathematical Sciences"
   },
   {
     "id": "university-of-virginia-main-campus",
@@ -4403,7 +4108,8 @@
     "website": "https://www.virginia.edu",
     "engineeringWebsite": "https://www.virginia.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Virginia",
-    "qsRank": 260
+    "qsRank": 260,
+    "engineeringSchool": "UVA School of Engineering and Applied Science"
   },
   {
     "id": "university-of-washington-seattle-campus",
@@ -4430,7 +4136,8 @@
     "website": "https://www.washington.edu",
     "engineeringWebsite": "https://www.washington.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Washington",
-    "qsRank": 50
+    "qsRank": 50,
+    "engineeringSchool": "UW College of Engineering"
   },
   {
     "id": "university-of-wisconsin-madison",
@@ -4457,7 +4164,8 @@
     "website": "https://www.wisc.edu",
     "engineeringWebsite": "https://www.wisc.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Wisconsin–Madison",
-    "qsRank": 116
+    "qsRank": 116,
+    "engineeringSchool": "UW-Madison College of Engineering"
   },
   {
     "id": "university-of-wisconsin-milwaukee",
@@ -4481,10 +4189,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "University of Wisconsin-Milwaukee is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://uwm.edu",
-    "engineeringWebsite": "http://uwm.edu/engineering",
+    "website": "https://uwm.edu",
+    "engineeringWebsite": "https://uwm.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Wisconsin–Milwaukee",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "College of Engineering & Applied Science"
   },
   {
     "id": "university-of-wyoming",
@@ -4511,7 +4220,8 @@
     "website": "https://www.uwyo.edu",
     "engineeringWebsite": "https://www.uwyo.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Wyoming",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "UWyo College of Engineering and Physical Sciences"
   },
   {
     "id": "utah-state-university",
@@ -4538,7 +4248,8 @@
     "website": "https://www.usu.edu",
     "engineeringWebsite": "https://www.usu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Utah_State_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "USU College of Engineering"
   },
   {
     "id": "vanderbilt-university",
@@ -4591,7 +4302,7 @@
     "website": "https://www.vcu.edu",
     "engineeringWebsite": "https://www.vcu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Virginia_Commonwealth_University",
-    "qsRank": null
+    "qsRank": 751
   },
   {
     "id": "virginia-polytechnic-institute-and-state-university",
@@ -4618,7 +4329,8 @@
     "website": "https://www.vt.edu",
     "engineeringWebsite": "https://www.vt.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Virginia_Tech",
-    "qsRank": 302
+    "qsRank": 363,
+    "engineeringSchool": "Virginia Tech College of Engineering"
   },
   {
     "id": "washington-state-university",
@@ -4673,7 +4385,8 @@
     "website": "https://wustl.edu",
     "engineeringWebsite": "https://wustl.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Washington_University_in_St._Louis",
-    "qsRank": 154
+    "qsRank": 154,
+    "engineeringSchool": "McKeevey School of Engineering"
   },
   {
     "id": "wayne-state-university",
@@ -4700,34 +4413,8 @@
     "website": "https://wayne.edu",
     "engineeringWebsite": "https://wayne.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Wayne_State_University",
-    "qsRank": 439
-  },
-  {
-    "id": "weill-cornell-medicine",
-    "name": "Weill Cornell Medicine",
-    "location": {
-      "city": "New York",
-      "state": "NY",
-      "stateName": "New York"
-    },
-    "control": "Private",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Weill Cornell Medicine, originally Cornell University Medical College, is the medical school of Cornell University, located on the Upper East Side neighborhood of Manhattan in New York City, New York, United States.",
-    "website": "https://www.weill-cornell-medicine.edu",
-    "engineeringWebsite": "https://www.weill-cornell-medicine.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Weill_Cornell_Medicine",
-    "qsRank": null
+    "qsRank": 751,
+    "engineeringSchool": "Wayne State College of Engineering"
   },
   {
     "id": "west-virginia-university",
@@ -4755,34 +4442,7 @@
     "website": "https://www.wvu.edu",
     "engineeringWebsite": "https://www.wvu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/West_Virginia_University",
-    "qsRank": null
-  },
-  {
-    "id": "william-mary",
-    "name": "William & Mary",
-    "location": {
-      "city": "Williamsburg",
-      "state": "VA",
-      "stateName": "Virginia"
-    },
-    "control": "Public",
-    "carnegieClassification": "R1: Very High Research Activity",
-    "degreeLevels": [
-      "MSc",
-      "PhD"
-    ],
-    "degreeType": "Both",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "William & Mary is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.wm.edu",
-    "engineeringWebsite": "https://www.wm.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/College_of_William_&_Mary",
-    "qsRank": null
+    "qsRank": 751
   },
   {
     "id": "worcester-polytechnic-institute",
@@ -4841,194 +4501,12 @@
     "qsRank": 19
   },
   {
-    "id": "abilene-christian-university",
-    "name": "Abilene Christian University",
-    "location": {
-      "city": "Abilene",
-      "state": "TX",
-      "stateName": "Texas"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Abilene Christian University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.acu.edu",
-    "engineeringWebsite": "http://www.acu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abilene_Christian_University",
-    "qsRank": null
-  },
-  {
     "id": "air-force-institute-of-technology",
     "name": "Air Force Institute of Technology",
     "location": {
       "city": "Wright-Patterson AFB",
       "state": "OH",
       "stateName": "Ohio"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Air Force Institute of Technology is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.air-force-of-technology.edu",
-    "engineeringWebsite": "https://www.air-force-of-technology.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Air_Force_Institute_of_Technology",
-    "qsRank": null
-  },
-  {
-    "id": "albert-einstein-college-of-medicine",
-    "name": "Albert Einstein College of Medicine",
-    "location": {
-      "city": "Bronx",
-      "state": "NY",
-      "stateName": "New York"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Albert Einstein College of Medicine is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://einsteinmed.edu",
-    "engineeringWebsite": "https://einsteinmed.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Einstein_College_of_Medicine",
-    "qsRank": null
-  },
-  {
-    "id": "appalachian-state-university",
-    "name": "Appalachian State University",
-    "location": {
-      "city": "Boone",
-      "state": "NC",
-      "stateName": "North Carolina"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Appalachian State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.appstate.edu",
-    "engineeringWebsite": "https://www.appstate.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Appalachian_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "arkansas-state-university",
-    "name": "Arkansas State University",
-    "location": {
-      "city": "Jonesboro",
-      "state": "AR",
-      "stateName": "Arkansas"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Arkansas State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.astate.edu",
-    "engineeringWebsite": "https://www.astate.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Arkansas_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "augusta-university",
-    "name": "Augusta University",
-    "location": {
-      "city": "Augusta",
-      "state": "GA",
-      "stateName": "Georgia"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Augusta University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.augusta.edu",
-    "engineeringWebsite": "https://www.augusta.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Augusta_University",
-    "qsRank": null
-  },
-  {
-    "id": "azusa-pacific-university",
-    "name": "Azusa Pacific University",
-    "location": {
-      "city": "Azusa",
-      "state": "CA",
-      "stateName": "California"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Azusa Pacific University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.apu.edu",
-    "engineeringWebsite": "https://www.apu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Azusa_Pacific_University",
-    "qsRank": null
-  },
-  {
-    "id": "ball-state-university",
-    "name": "Ball State University",
-    "location": {
-      "city": "Muncie",
-      "state": "IN",
-      "stateName": "Indiana"
     },
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
@@ -5043,11 +4521,12 @@
       "Mechanical Engineering",
       "Civil & Environmental Engineering"
     ],
-    "description": "Ball State University is a public research university in Muncie, Indiana, United States. The university has three off-campus centers in Indianapolis, Fort Wayne, and Fishers, Indiana. The university is composed of ten academic colleges. As of 2023, the university enrolled about 20,400 students with 14,900 undergraduates and 5,500 graduate and doctoral students. The university offers about 120 undergraduate majors and 130 minor areas of study and more than 100 masters, doctoral, certificate, and specialist degrees.",
-    "website": "http://www.bsu.edu",
-    "engineeringWebsite": "http://www.bsu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ball_State_University",
-    "qsRank": null
+    "description": "Air Force Institute of Technology is a leading institution in higher education offering graduate engineering programs.",
+    "website": "https://www.afit.edu",
+    "engineeringWebsite": "https://www.afit.edu/engineering",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Air_Force_Institute_of_Technology",
+    "qsRank": 801,
+    "engineeringSchool": "Graduate School of Engineering & Management"
   },
   {
     "id": "boise-state-university",
@@ -5060,9 +4539,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -5070,36 +4550,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Boise State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.boisestate.edu",
-    "engineeringWebsite": "http://www.boisestate.edu/engineering",
+    "website": "https://www.boisestate.edu",
+    "engineeringWebsite": "https://www.boisestate.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Boise_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "bowling-green-state-university",
-    "name": "Bowling Green State University",
-    "location": {
-      "city": "Bowling Green",
-      "state": "OH",
-      "stateName": "Ohio"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Bowling Green State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://bgsu.edu",
-    "engineeringWebsite": "https://bgsu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bowling_Green_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering"
   },
   {
     "id": "california-state-polytechnic-university-pomona",
@@ -5152,7 +4607,8 @@
     "website": "https://www.fresnostate.edu",
     "engineeringWebsite": "https://www.fresnostate.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/California_State_University,_Fresno",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Lyles College of Engineering"
   },
   {
     "id": "california-state-university-fullerton",
@@ -5178,7 +4634,8 @@
     "website": "https://www.fullerton.edu",
     "engineeringWebsite": "https://www.fullerton.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/California_State_University,_Fullerton",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering and Computer Science"
   },
   {
     "id": "california-state-university-long-beach",
@@ -5204,7 +4661,8 @@
     "website": "https://www.csulb.edu",
     "engineeringWebsite": "https://www.csulb.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/California_State_University,_Long_Beach",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "CSULB College of Engineering"
   },
   {
     "id": "california-state-university-los-angeles",
@@ -5217,10 +4675,9 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc",
-      "PhD"
+      "MSc"
     ],
-    "degreeType": "Both",
+    "degreeType": "MSc Only",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -5231,7 +4688,8 @@
     "website": "https://www.calstatela.edu",
     "engineeringWebsite": "https://www.calstatela.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/California_State_University,_Los_Angeles",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering, Computer Science, and Technology"
   },
   {
     "id": "california-state-university-sacramento",
@@ -5257,15 +4715,44 @@
     "website": "https://www.csus.edu",
     "engineeringWebsite": "https://www.csus.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/California_State_University,_Sacramento",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering and Computer Science"
   },
   {
-    "id": "central-michigan-university",
-    "name": "Central Michigan University",
+    "id": "clarkson-university",
+    "name": "Clarkson University",
+    "engineeringSchool": "Clarkson Wallace H. Coulter School of Engineering",
     "location": {
-      "city": "Mount Pleasant",
-      "state": "MI",
-      "stateName": "Michigan"
+      "city": "Potsdam",
+      "state": "NY",
+      "stateName": "New York"
+    },
+    "control": "Private",
+    "carnegieClassification": "R2: High Research Activity",
+    "degreeLevels": [
+      "MSc",
+      "PhD"
+    ],
+    "degreeType": "Both",
+    "engineeringDisciplines": [
+      "Computer Science & Engineering",
+      "Electrical & Computer Engineering",
+      "Mechanical Engineering",
+      "Civil & Environmental Engineering"
+    ],
+    "description": "Clarkson University is a leading institution in higher education offering graduate engineering programs.",
+    "website": "https://www.clarkson.edu",
+    "engineeringWebsite": "https://www.clarkson.edu/engineering",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Clarkson_University",
+    "qsRank": 801
+  },
+  {
+    "id": "cleveland-state-university",
+    "name": "Cleveland State University",
+    "location": {
+      "city": "Cleveland",
+      "state": "OH",
+      "stateName": "Ohio"
     },
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
@@ -5280,168 +4767,12 @@
       "Mechanical Engineering",
       "Civil & Environmental Engineering"
     ],
-    "description": "Central Michigan University is a public research university in Mount Pleasant, Michigan, United States. It was established in 1892 as a private normal school and became a state institution in 1895. CMU is one of the eight research universities in Michigan and is classified among \"R2: Doctoral Universities – High research activity\". It has more than 14,000 students on its Mount Pleasant campus. CMU offers 200 academic programs at the undergraduate, master's, specialist, and doctoral levels. The Central Michigan Chippewas compete in the NCAA Division I Mid-American Conference in six men's and ten women's sports.",
-    "website": "https://www.cmich.edu",
-    "engineeringWebsite": "https://www.cmich.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Central_Michigan_University",
-    "qsRank": null
-  },
-  {
-    "id": "chapman-university",
-    "name": "Chapman University",
-    "location": {
-      "city": "Orange",
-      "state": "CA",
-      "stateName": "California"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Chapman University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.chapman.edu",
-    "engineeringWebsite": "https://www.chapman.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Chapman_University",
-    "qsRank": null
-  },
-  {
-    "id": "claremont-graduate-university",
-    "name": "Claremont Graduate University",
-    "location": {
-      "city": "Claremont",
-      "state": "CA",
-      "stateName": "California"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Claremont Graduate University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.cgu.edu",
-    "engineeringWebsite": "https://www.cgu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Claremont_Graduate_University",
-    "qsRank": null
-  },
-  {
-    "id": "clark-atlanta-university",
-    "name": "Clark Atlanta University",
-    "location": {
-      "city": "Atlanta",
-      "state": "GA",
-      "stateName": "Georgia"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "PhD"
-    ],
-    "degreeType": "PhD Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Clark Atlanta University is a private, Methodist, historically black research university in Atlanta, Georgia, United States. It was founded on September 19, 1865, as Atlanta University, the first HBCU in the United States to confer graduate degrees to African Americans. In 1988, the school consolidated with Clark College to form CAU. It is classified among \"R2: Doctoral Universities – High research activity\".",
-    "website": "https://www.cau.edu",
-    "engineeringWebsite": "https://www.cau.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Clark_Atlanta_University",
-    "qsRank": null
-  },
-  {
-    "id": "clarkson-university",
-    "name": "Clarkson University",
-    "engineeringSchool": "Clarkson Wallace H. Coulter School of Engineering",
-    "location": {
-      "city": "Potsdam",
-      "state": "NY",
-      "stateName": "New York"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Clarkson University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://clarkson.edu",
-    "engineeringWebsite": "https://clarkson.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Clarkson_University",
-    "qsRank": null
-  },
-  {
-    "id": "cleveland-state-university",
-    "name": "Cleveland State University",
-    "location": {
-      "city": "Cleveland",
-      "state": "OH",
-      "stateName": "Ohio"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
     "description": "Cleveland State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.csuohio.edu",
-    "engineeringWebsite": "http://www.csuohio.edu/engineering",
+    "website": "https://www.csuohio.edu",
+    "engineeringWebsite": "https://www.csuohio.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Cleveland_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "creighton-university",
-    "name": "Creighton University",
-    "location": {
-      "city": "Omaha",
-      "state": "NE",
-      "stateName": "Nebraska"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Creighton University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.creighton.edu",
-    "engineeringWebsite": "http://www.creighton.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Creighton_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Washkewicz College of Engineering"
   },
   {
     "id": "cuny-city-college",
@@ -5454,9 +4785,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -5467,215 +4799,8 @@
     "website": "https://www.ccny.cuny.edu",
     "engineeringWebsite": "https://www.ccny.cuny.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/City_College_of_New_York",
-    "qsRank": null
-  },
-  {
-    "id": "cuny-hunter-college",
-    "name": "CUNY Hunter College",
-    "location": {
-      "city": "New York",
-      "state": "NY",
-      "stateName": "New York"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "CUNY Hunter College is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.cuny-hunter.edu",
-    "engineeringWebsite": "https://www.cuny-hunter.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/CUNY_Hunter_College",
-    "qsRank": null
-  },
-  {
-    "id": "delaware-state-university",
-    "name": "Delaware State University",
-    "location": {
-      "city": "Dover",
-      "state": "DE",
-      "stateName": "Delaware"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Delaware State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.desu.edu",
-    "engineeringWebsite": "http://www.desu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Delaware_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "depaul-university",
-    "name": "DePaul University",
-    "location": {
-      "city": "Chicago",
-      "state": "IL",
-      "stateName": "Illinois"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "DePaul University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.depaul.edu",
-    "engineeringWebsite": "http://www.depaul.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/DePaul_University",
-    "qsRank": null
-  },
-  {
-    "id": "duquesne-university",
-    "name": "Duquesne University",
-    "location": {
-      "city": "Pittsburgh",
-      "state": "PA",
-      "stateName": "Pennsylvania"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Duquesne University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.duq.edu",
-    "engineeringWebsite": "http://www.duq.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Duquesne_University",
-    "qsRank": null
-  },
-  {
-    "id": "east-tennessee-state-university",
-    "name": "East Tennessee State University",
-    "location": {
-      "city": "Johnson City",
-      "state": "TN",
-      "stateName": "Tennessee"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "East Tennessee State University (ETSU) is a public research university in Johnson City, Tennessee. As of 2026, it is the fourth-largest university in the state by student enrollment. In addition to its main campus, ETSU has facilities in Kingsport, Elizabethton, Chattanooga, and Sevierville.",
-    "website": "http://www.etsu.edu",
-    "engineeringWebsite": "http://www.etsu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/East_Tennessee_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "east-texas-am-university",
-    "name": "East Texas A&M University",
-    "location": {
-      "city": "Commerce",
-      "state": "TX",
-      "stateName": "Texas"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "East Texas A&M University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.etamu.edu",
-    "engineeringWebsite": "https://www.etamu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/East_Texas_A&M_University",
-    "qsRank": null
-  },
-  {
-    "id": "eastern-michigan-university",
-    "name": "Eastern Michigan University",
-    "location": {
-      "city": "Ypsilanti",
-      "state": "MI",
-      "stateName": "Michigan"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Eastern Michigan University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.emich.edu",
-    "engineeringWebsite": "https://www.emich.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_Michigan_University",
-    "qsRank": null
-  },
-  {
-    "id": "eastern-virginia-medical-school",
-    "name": "Eastern Virginia Medical School",
-    "location": {
-      "city": "Norfolk",
-      "state": "VA",
-      "stateName": "Virginia"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Eastern Virginia Medical School is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.eastern-virginia-medical-school.edu",
-    "engineeringWebsite": "https://www.eastern-virginia-medical-school.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_Virginia_Medical_School",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Grove School of Engineering"
   },
   {
     "id": "embry-riddle-aeronautical-university-daytona-beach",
@@ -5688,17 +4813,19 @@
     "control": "Private",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Aerospace Engineering"
     ],
     "description": "Embry-Riddle Aeronautical University-Daytona Beach is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.embry-riddle-aeronautical-daytona-beach.edu",
-    "engineeringWebsite": "https://www.embry-riddle-aeronautical-daytona-beach.edu/engineering",
+    "website": "https://erau.edu",
+    "engineeringWebsite": "https://erau.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Embry-Riddle_Aeronautical_University,_Daytona_Beach_Eagles",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "College of Engineering"
   },
   {
     "id": "florida-agricultural-and-mechanical-university",
@@ -5711,9 +4838,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -5724,7 +4852,8 @@
     "website": "https://www.famu.edu",
     "engineeringWebsite": "https://www.famu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Florida_A&M_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "FAMU-FSU College of Engineering"
   },
   {
     "id": "florida-institute-of-technology",
@@ -5737,9 +4866,10 @@
     "control": "Private",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -5750,7 +4880,8 @@
     "website": "https://www.fit.edu",
     "engineeringWebsite": "https://www.fit.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Florida_Institute_of_Technology",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "College of Engineering and Science"
   },
   {
     "id": "georgia-southern-university",
@@ -5773,10 +4904,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Georgia Southern University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.georgiasouthern.edu",
-    "engineeringWebsite": "http://www.georgiasouthern.edu/engineering",
+    "website": "https://www.georgiasouthern.edu",
+    "engineeringWebsite": "https://www.georgiasouthern.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Georgia_Southern_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "Allen E. Paulson College of Engineering and Computing"
   },
   {
     "id": "hampton-university",
@@ -5799,10 +4931,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Hampton University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.hamptonu.edu",
-    "engineeringWebsite": "http://www.hamptonu.edu/engineering",
+    "website": "https://home.hamptonu.edu",
+    "engineeringWebsite": "https://home.hamptonu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Hampton_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "School of Engineering and Technology"
   },
   {
     "id": "hofstra-university",
@@ -5828,33 +4961,8 @@
     "website": "https://www.hofstra.edu",
     "engineeringWebsite": "https://www.hofstra.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Hofstra_University",
-    "qsRank": null
-  },
-  {
-    "id": "icahn-school-of-medicine-at-mount-sinai",
-    "name": "Icahn School of Medicine at Mount Sinai",
-    "location": {
-      "city": "New York",
-      "state": "NY",
-      "stateName": "New York"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Icahn School of Medicine at Mount Sinai is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.icahn-school-of-medicine-at-mount-sinai.edu",
-    "engineeringWebsite": "https://www.icahn-school-of-medicine-at-mount-sinai.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Icahn_School_of_Medicine_at_Mount_Sinai",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Fred DeMatteis School of Engineering and Applied Science"
   },
   {
     "id": "idaho-state-university",
@@ -5867,9 +4975,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -5877,10 +4986,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Idaho State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.isu.edu",
-    "engineeringWebsite": "http://www.isu.edu/engineering",
+    "website": "https://www.isu.edu",
+    "engineeringWebsite": "https://www.isu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Idaho_State_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "College of Science and Engineering"
   },
   {
     "id": "illinois-institute-of-technology",
@@ -5894,9 +5004,10 @@
     "control": "Private",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -5908,58 +5019,6 @@
     "engineeringWebsite": "https://www.iit.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Illinois_Institute_of_Technology",
     "qsRank": 469
-  },
-  {
-    "id": "illinois-state-university",
-    "name": "Illinois State University",
-    "location": {
-      "city": "Normal",
-      "state": "IL",
-      "stateName": "Illinois"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Illinois State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://illinoisstate.edu",
-    "engineeringWebsite": "https://illinoisstate.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Illinois_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "indiana-university-of-pennsylvania",
-    "name": "Indiana University of Pennsylvania",
-    "location": {
-      "city": "Indiana",
-      "state": "PA",
-      "stateName": "Pennsylvania"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Indiana University of Pennsylvania is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.iup.edu",
-    "engineeringWebsite": "http://www.iup.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Indiana_University_of_Pennsylvania",
-    "qsRank": null
   },
   {
     "id": "jackson-state-university",
@@ -5982,62 +5041,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Jackson State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.jsums.edu",
-    "engineeringWebsite": "http://www.jsums.edu/engineering",
+    "website": "https://www.jsums.edu",
+    "engineeringWebsite": "https://www.jsums.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackson_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "james-madison-university",
-    "name": "James Madison University",
-    "location": {
-      "city": "Harrisonburg",
-      "state": "VA",
-      "stateName": "Virginia"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "James Madison University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.jmu.edu",
-    "engineeringWebsite": "http://www.jmu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Madison_University",
-    "qsRank": null
-  },
-  {
-    "id": "kean-university",
-    "name": "Kean University",
-    "location": {
-      "city": "Union",
-      "state": "NJ",
-      "stateName": "New Jersey"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Kean University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.kean.edu",
-    "engineeringWebsite": "https://www.kean.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kean_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "College of Science, Engineering and Technology"
   },
   {
     "id": "kennesaw-state-university",
@@ -6063,7 +5071,8 @@
     "website": "https://www.kennesaw.edu",
     "engineeringWebsite": "https://www.kennesaw.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Kennesaw_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Southern Polytechnic College of Engineering and Engineering Technology"
   },
   {
     "id": "lamar-university",
@@ -6076,9 +5085,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -6086,88 +5096,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Lamar University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.lamar.edu",
-    "engineeringWebsite": "http://www.lamar.edu/engineering",
+    "website": "https://www.lamar.edu",
+    "engineeringWebsite": "https://www.lamar.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamar_University",
-    "qsRank": null
-  },
-  {
-    "id": "loma-linda-university",
-    "name": "Loma Linda University",
-    "location": {
-      "city": "Loma Linda",
-      "state": "CA",
-      "stateName": "California"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Loma Linda University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.llu.edu",
-    "engineeringWebsite": "http://www.llu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Loma_Linda_University",
-    "qsRank": null
-  },
-  {
-    "id": "long-island-university",
-    "name": "Long Island University",
-    "location": {
-      "city": "Brookville",
-      "state": "NY",
-      "stateName": "New York"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Long Island University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://liu.edu/cwpost",
-    "engineeringWebsite": "http://liu.edu/cwpost/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/LIU_Post",
-    "qsRank": null
-  },
-  {
-    "id": "louisiana-state-university-new-orleans",
-    "name": "Louisiana State University New Orleans",
-    "location": {
-      "city": "New Orleans",
-      "state": "LA",
-      "stateName": "Louisiana"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Louisiana State University New Orleans is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://lsuneworleans.edu",
-    "engineeringWebsite": "https://lsuneworleans.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/LSU_New_Orleans",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "College of Engineering"
   },
   {
     "id": "louisiana-tech-university",
@@ -6180,9 +5113,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
+      "MSc",
       "PhD"
     ],
-    "degreeType": "PhD Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -6193,7 +5127,8 @@
     "website": "https://www.latech.edu",
     "engineeringWebsite": "https://www.latech.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Louisiana_Tech_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering and Science"
   },
   {
     "id": "loyola-marymount-university",
@@ -6216,10 +5151,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Loyola Marymount University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.lmu.edu",
-    "engineeringWebsite": "http://www.lmu.edu/engineering",
+    "website": "https://www.lmu.edu",
+    "engineeringWebsite": "https://www.lmu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Loyola_Marymount_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Frank R. Seaver College of Science and Engineering"
   },
   {
     "id": "marquette-university",
@@ -6232,9 +5168,10 @@
     "control": "Private",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -6245,7 +5182,8 @@
     "website": "https://www.marquette.edu",
     "engineeringWebsite": "https://www.marquette.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Marquette_University",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Opus College of Engineering"
   },
   {
     "id": "marshall-university",
@@ -6258,32 +5196,6 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "PhD"
-    ],
-    "degreeType": "PhD Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Marshall University is a public research university in Huntington, West Virginia, United States. It was founded in 1837 and is named after John Marshall, the fourth chief justice of the United States. The university is classified among \"R2: Doctoral Universities – High research activity\".",
-    "website": "http://www.marshall.edu",
-    "engineeringWebsite": "http://www.marshall.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marshall_University",
-    "qsRank": null
-  },
-  {
-    "id": "medical-college-of-wisconsin",
-    "name": "Medical College of Wisconsin",
-    "location": {
-      "city": "Milwaukee",
-      "state": "WI",
-      "stateName": "Wisconsin"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
       "MSc"
     ],
     "degreeType": "MSc Only",
@@ -6293,11 +5205,12 @@
       "Mechanical Engineering",
       "Civil & Environmental Engineering"
     ],
-    "description": "Medical College of Wisconsin is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.medical-of-wisconsin.edu",
-    "engineeringWebsite": "https://www.medical-of-wisconsin.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Medical_College_of_Wisconsin",
-    "qsRank": null
+    "description": "Marshall University is a public research university in Huntington, West Virginia, United States. It was founded in 1837 and is named after John Marshall, the fourth chief justice of the United States. The university is classified among \"R2: Doctoral Universities – High research activity\".",
+    "website": "https://www.marshall.edu",
+    "engineeringWebsite": "https://www.marshall.edu/engineering",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marshall_University",
+    "qsRank": 1201,
+    "engineeringSchool": "College of Engineering and Computer Sciences"
   },
   {
     "id": "mercer-university",
@@ -6320,10 +5233,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Mercer University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.mercer.edu",
-    "engineeringWebsite": "http://www.mercer.edu/engineering",
+    "website": "https://www.mercer.edu",
+    "engineeringWebsite": "https://www.mercer.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercer_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "School of Engineering"
   },
   {
     "id": "miami-university",
@@ -6349,59 +5263,8 @@
     "website": "https://miamioh.edu",
     "engineeringWebsite": "https://miamioh.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Miami_University",
-    "qsRank": null
-  },
-  {
-    "id": "middle-tennessee-state-university",
-    "name": "Middle Tennessee State University",
-    "location": {
-      "city": "Murfreesboro",
-      "state": "TN",
-      "stateName": "Tennessee"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Middle Tennessee State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.mtsu.edu",
-    "engineeringWebsite": "https://www.mtsu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Middle_Tennessee_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "montclair-state-university",
-    "name": "Montclair State University",
-    "location": {
-      "city": "Montclair",
-      "state": "NJ",
-      "stateName": "New Jersey"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Montclair State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.montclair.edu",
-    "engineeringWebsite": "https://www.montclair.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Montclair_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering and Computing"
   },
   {
     "id": "morgan-state-university",
@@ -6414,9 +5277,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -6427,7 +5291,8 @@
     "website": "https://www.morgan.edu",
     "engineeringWebsite": "https://www.morgan.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Morgan_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Clarence M. Mitchell, Jr. School of Engineering"
   },
   {
     "id": "north-carolina-at-state-university",
@@ -6440,9 +5305,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -6450,10 +5316,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "North Carolina A&T State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://ncat.edu",
-    "engineeringWebsite": "https://ncat.edu/engineering",
+    "website": "https://www.ncat.edu",
+    "engineeringWebsite": "https://www.ncat.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/North_Carolina_A&T_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering"
   },
   {
     "id": "northern-illinois-university",
@@ -6466,9 +5333,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -6479,7 +5347,8 @@
     "website": "https://www.niu.edu",
     "engineeringWebsite": "https://www.niu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_Illinois_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering and Engineering Technology"
   },
   {
     "id": "oakland-university",
@@ -6492,9 +5361,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -6502,88 +5372,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Oakland University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.oakland.edu",
-    "engineeringWebsite": "http://www.oakland.edu/engineering",
+    "website": "https://www.oakland.edu",
+    "engineeringWebsite": "https://www.oakland.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Oakland_University",
-    "qsRank": null
-  },
-  {
-    "id": "oklahoma-state-university-center-for-health-sciences",
-    "name": "Oklahoma State University Center for Health Sciences",
-    "location": {
-      "city": "Tulsa",
-      "state": "OK",
-      "stateName": "Oklahoma"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Oklahoma State University Center for Health Sciences is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.oklahoma-state-center-for-health-sciences.edu",
-    "engineeringWebsite": "https://www.oklahoma-state-center-for-health-sciences.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Oklahoma_State_University_Center_for_Health_Sciences",
-    "qsRank": null
-  },
-  {
-    "id": "oregon-health-science-university",
-    "name": "Oregon Health & Science University",
-    "location": {
-      "city": "Portland",
-      "state": "OR",
-      "stateName": "Oregon"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Oregon Health & Science University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.ohsu.edu",
-    "engineeringWebsite": "https://www.ohsu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Oregon_Health_&_Science_University",
-    "qsRank": null
-  },
-  {
-    "id": "pepperdine-university",
-    "name": "Pepperdine University",
-    "location": {
-      "city": "Malibu",
-      "state": "CA",
-      "stateName": "California"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Pepperdine University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.pepperdine.edu",
-    "engineeringWebsite": "https://www.pepperdine.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Pepperdine_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "School of Engineering and Computer Science"
   },
   {
     "id": "portland-state-university",
@@ -6596,9 +5389,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -6609,7 +5403,8 @@
     "website": "https://www.pdx.edu",
     "engineeringWebsite": "https://www.pdx.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Portland_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Maseeh College of Engineering and Computer Science"
   },
   {
     "id": "prairie-view-am-university",
@@ -6633,10 +5428,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Prairie View A&M University is a public historically black (HBCU) land-grant university in Prairie View, Texas, United States. Founded in 1876, it is the oldest public HBCU in Texas and the second oldest public institution of higher learning in the state. It offers baccalaureate degrees in 50 academic majors, 37 master's degrees and four doctoral degree programs through eight colleges and the School of Architecture. PVAMU is the largest HBCU in the state of Texas and the third largest HBCU in the United States. PVAMU is a member of the Texas A&M University System and Thurgood Marshall College Fund.",
-    "website": "http://www.pvamu.edu",
-    "engineeringWebsite": "http://www.pvamu.edu/engineering",
+    "website": "https://www.pvamu.edu",
+    "engineeringWebsite": "https://www.pvamu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Prairie_View_A&M_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "Roy G. Perry College of Engineering"
   },
   {
     "id": "rochester-institute-of-technology",
@@ -6650,9 +5446,10 @@
     "control": "Private",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -6663,7 +5460,7 @@
     "website": "https://www.rit.edu",
     "engineeringWebsite": "https://www.rit.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology",
-    "qsRank": null
+    "qsRank": 801
   },
   {
     "id": "rowan-university",
@@ -6677,9 +5474,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -6690,137 +5488,7 @@
     "website": "https://www.rowan.edu",
     "engineeringWebsite": "https://www.rowan.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Rowan_University",
-    "qsRank": null
-  },
-  {
-    "id": "rush-university",
-    "name": "Rush University",
-    "location": {
-      "city": "Chicago",
-      "state": "IL",
-      "stateName": "Illinois"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Rush University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.rushu.rush.edu",
-    "engineeringWebsite": "http://www.rushu.rush.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rush_University",
-    "qsRank": null
-  },
-  {
-    "id": "rutgers-universitycamden",
-    "name": "Rutgers University–Camden",
-    "location": {
-      "city": "Camden",
-      "state": "NJ",
-      "stateName": "New Jersey"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Rutgers University–Camden is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.rutgers.edu",
-    "engineeringWebsite": "http://www.rutgers.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rutgers_University–Camden",
-    "qsRank": null
-  },
-  {
-    "id": "rutgers-universitynewark",
-    "name": "Rutgers University–Newark",
-    "location": {
-      "city": "Newark",
-      "state": "NJ",
-      "stateName": "New Jersey"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Rutgers University–Newark is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.newark.rutgers.edu",
-    "engineeringWebsite": "https://www.newark.rutgers.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rutgers_University–Newark",
-    "qsRank": null
-  },
-  {
-    "id": "saint-josephs-university",
-    "name": "Saint Joseph's University",
-    "location": {
-      "city": "Philadelphia",
-      "state": "PA",
-      "stateName": "Pennsylvania"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Saint Joseph's University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.sju.edu",
-    "engineeringWebsite": "http://www.sju.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_Joseph's_University",
-    "qsRank": null
-  },
-  {
-    "id": "sam-houston-state-university",
-    "name": "Sam Houston State University",
-    "location": {
-      "city": "Huntsville",
-      "state": "TX",
-      "stateName": "Texas"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Sam Houston State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.shsu.edu",
-    "engineeringWebsite": "https://www.shsu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Houston_State_University",
-    "qsRank": null
+    "qsRank": 1001
   },
   {
     "id": "san-francisco-state-university",
@@ -6846,7 +5514,8 @@
     "website": "https://www.sfsu.edu",
     "engineeringWebsite": "https://www.sfsu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/San_Francisco_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "SF State School of Engineering"
   },
   {
     "id": "san-jose-state-university",
@@ -6873,59 +5542,7 @@
     "website": "https://www.sjsu.edu",
     "engineeringWebsite": "https://www.sjsu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/San_Jose_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "seton-hall-university",
-    "name": "Seton Hall University",
-    "location": {
-      "city": "South Orange",
-      "state": "NJ",
-      "stateName": "New Jersey"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Seton Hall University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.shu.edu",
-    "engineeringWebsite": "http://www.shu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Seton_Hall_University",
-    "qsRank": null
-  },
-  {
-    "id": "south-carolina-state-university",
-    "name": "South Carolina State University",
-    "location": {
-      "city": "Orangeburg",
-      "state": "SC",
-      "stateName": "South Carolina"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "South Carolina State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.scsu.edu",
-    "engineeringWebsite": "http://www.scsu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Carolina_State_University",
-    "qsRank": null
+    "qsRank": 1001
   },
   {
     "id": "south-dakota-state-university",
@@ -6938,9 +5555,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -6951,33 +5569,8 @@
     "website": "https://www.sdstate.edu",
     "engineeringWebsite": "https://www.sdstate.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Dakota_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "southern-connecticut-state-university",
-    "name": "Southern Connecticut State University",
-    "location": {
-      "city": "New Haven",
-      "state": "CT",
-      "stateName": "Connecticut"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Southern Connecticut State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.southernct.edu",
-    "engineeringWebsite": "http://www.southernct.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Southern_Connecticut_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Jerome J. Lohr College of Engineering"
   },
   {
     "id": "southern-university",
@@ -7000,10 +5593,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Southern University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.subr.edu",
-    "engineeringWebsite": "http://www.subr.edu/engineering",
+    "website": "https://www.subr.edu",
+    "engineeringWebsite": "https://www.subr.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Southern_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "College of Sciences and Engineering"
   },
   {
     "id": "stevens-institute-of-technology",
@@ -7017,9 +5611,10 @@
     "control": "Private",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7043,9 +5638,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7056,7 +5652,8 @@
     "website": "https://www.esf.edu",
     "engineeringWebsite": "https://www.esf.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/State_University_of_New_York_College_of_Environmental_Science_and_Forestry",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Department of Environmental Resources Engineering"
   },
   {
     "id": "tarleton-state-university",
@@ -7069,9 +5666,9 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "PhD"
+      "MSc"
     ],
-    "degreeType": "PhD Only",
+    "degreeType": "MSc Only",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7082,33 +5679,8 @@
     "website": "https://www.tarleton.edu",
     "engineeringWebsite": "https://www.tarleton.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Tarleton_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "teachers-college-columbia-university",
-    "name": "Teachers College, Columbia University",
-    "location": {
-      "city": "New York",
-      "state": "NY",
-      "stateName": "New York"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Teachers College, Columbia University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.teachers-columbia.edu",
-    "engineeringWebsite": "https://www.teachers-columbia.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Teachers_College,_Columbia_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "School of Engineering"
   },
   {
     "id": "tennessee-state-university",
@@ -7121,9 +5693,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7134,7 +5707,8 @@
     "website": "https://www.tnstate.edu",
     "engineeringWebsite": "https://www.tnstate.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Tennessee_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering"
   },
   {
     "id": "tennessee-technological-university",
@@ -7147,9 +5721,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7160,7 +5735,8 @@
     "website": "https://www.tntech.edu",
     "engineeringWebsite": "https://www.tntech.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Tennessee_Tech",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Tennessee Tech College of Engineering"
   },
   {
     "id": "texas-am-universitycorpus-christi",
@@ -7183,10 +5759,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Texas A&M University–Corpus Christi is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.tamucc.edu",
-    "engineeringWebsite": "http://www.tamucc.edu/engineering",
+    "website": "https://www.tamucc.edu",
+    "engineeringWebsite": "https://www.tamucc.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_A&M_University–Corpus_Christi",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "College of Science and Engineering"
   },
   {
     "id": "texas-am-universitykingsville",
@@ -7199,9 +5776,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7212,59 +5790,8 @@
     "website": "https://www.tamuk.edu",
     "engineeringWebsite": "https://www.tamuk.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_A&M_University–Kingsville",
-    "qsRank": null
-  },
-  {
-    "id": "texas-christian-university",
-    "name": "Texas Christian University",
-    "location": {
-      "city": "Fort Worth",
-      "state": "TX",
-      "stateName": "Texas"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Texas Christian University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.tcu.edu",
-    "engineeringWebsite": "https://www.tcu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_Christian_University",
-    "qsRank": null
-  },
-  {
-    "id": "texas-southern-university",
-    "name": "Texas Southern University",
-    "location": {
-      "city": "Houston",
-      "state": "TX",
-      "stateName": "Texas"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "PhD"
-    ],
-    "degreeType": "PhD Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Texas Southern University is a public historically black university in Houston, Texas, United States. The university is a member school of the Thurgood Marshall College Fund and is accredited by the Southern Association of Colleges and Schools. It is classified among \"R2: Doctoral Universities – High research activity\".",
-    "website": "http://www.tsu.edu",
-    "engineeringWebsite": "http://www.tsu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_Southern_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "Frank H. Dotterweich College of Engineering"
   },
   {
     "id": "texas-state-university",
@@ -7277,9 +5804,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7290,59 +5818,8 @@
     "website": "https://www.txst.edu",
     "engineeringWebsite": "https://www.txst.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "texas-womans-university",
-    "name": "Texas Woman's University",
-    "location": {
-      "city": "Denton",
-      "state": "TX",
-      "stateName": "Texas"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Texas Woman's University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://twu.edu",
-    "engineeringWebsite": "https://twu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_Woman's_University",
-    "qsRank": null
-  },
-  {
-    "id": "the-new-school",
-    "name": "The New School",
-    "location": {
-      "city": "New York",
-      "state": "NY",
-      "stateName": "New York"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The New School is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://newschool.edu",
-    "engineeringWebsite": "https://newschool.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/The_New_School",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Ingram School of Engineering"
   },
   {
     "id": "the-university-of-texas-at-tyler",
@@ -7368,7 +5845,8 @@
     "website": "https://www.uttyler.edu",
     "engineeringWebsite": "https://www.uttyler.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Texas_at_Tyler",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "College of Engineering"
   },
   {
     "id": "the-university-of-texas-rio-grande-valley",
@@ -7391,62 +5869,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "The University of Texas Rio Grande Valley is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.utrgv.edu",
-    "engineeringWebsite": "http://www.utrgv.edu/engineering",
+    "website": "https://www.utrgv.edu",
+    "engineeringWebsite": "https://www.utrgv.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Texas_Rio_Grande_Valley",
-    "qsRank": null
-  },
-  {
-    "id": "the-university-of-west-florida",
-    "name": "The University of West Florida",
-    "location": {
-      "city": "Pensacola",
-      "state": "FL",
-      "stateName": "Florida"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The University of West Florida is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://uwf.edu",
-    "engineeringWebsite": "https://uwf.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_West_Florida",
-    "qsRank": null
-  },
-  {
-    "id": "thomas-jefferson-university",
-    "name": "Thomas Jefferson University",
-    "location": {
-      "city": "Philadelphia",
-      "state": "PA",
-      "stateName": "Pennsylvania"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Thomas Jefferson University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.jefferson.edu",
-    "engineeringWebsite": "https://www.jefferson.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Jefferson_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering and Computer Science"
   },
   {
     "id": "university-of-akron",
@@ -7459,9 +5886,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
+      "MSc",
       "PhD"
     ],
-    "degreeType": "PhD Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7469,10 +5897,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "The University of Akron is a public research university in Akron, Ohio, United States. It is part of the University System of Ohio. As a STEM-focused institution, it focuses on industries such as polymers, advanced materials, and engineering. It is classified among \"R2: Doctoral Universities – High research activity\".",
-    "website": "http://www.uakron.edu",
-    "engineeringWebsite": "http://www.uakron.edu/engineering",
+    "website": "https://www.uakron.edu",
+    "engineeringWebsite": "https://www.uakron.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Akron",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "College of Engineering and Polymer Science"
   },
   {
     "id": "university-of-alabama-huntsville",
@@ -7485,9 +5914,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7495,10 +5925,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "University of Alabama, Huntsville is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.uah.edu",
-    "engineeringWebsite": "http://www.uah.edu/engineering",
+    "website": "https://www.uah.edu",
+    "engineeringWebsite": "https://www.uah.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Alabama_in_Huntsville",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "UAH College of Engineering"
   },
   {
     "id": "university-of-alaska-fairbanks",
@@ -7511,9 +5942,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7524,7 +5956,8 @@
     "website": "https://www.uaf.edu",
     "engineeringWebsite": "https://www.uaf.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Alaska_Fairbanks",
-    "qsRank": 467
+    "qsRank": 801,
+    "engineeringSchool": "College of Engineering and Mines"
   },
   {
     "id": "university-of-arkansas-at-little-rock",
@@ -7537,9 +5970,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7550,33 +5984,8 @@
     "website": "https://ualr.edu",
     "engineeringWebsite": "https://ualr.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Arkansas_at_Little_Rock",
-    "qsRank": null
-  },
-  {
-    "id": "university-of-arkansas-for-medical-sciences",
-    "name": "University of Arkansas for Medical Sciences",
-    "location": {
-      "city": "Little Rock",
-      "state": "AR",
-      "stateName": "Arkansas"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "University of Arkansas for Medical Sciences is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://uams.edu",
-    "engineeringWebsite": "https://uams.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Arkansas_for_Medical_Sciences",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Donaghey College of Science, Technology, Engineering, and Mathematics"
   },
   {
     "id": "university-of-colorado-colorado-springs",
@@ -7589,9 +5998,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
+      "MSc",
       "PhD"
     ],
-    "degreeType": "PhD Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7599,10 +6009,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "The University of Colorado Colorado Springs (UCCS) is a public research university in Colorado Springs, Colorado, United States. It is one of four campuses that make up the University of Colorado system. As of fall 2023, UCCS had over 11,000 students, including more than 9,000 undergraduates and nearly 2,000 graduate students. It is classified among \"R2: Doctoral Universities – High research activity\".",
-    "website": "http://www.uccs.edu",
-    "engineeringWebsite": "http://www.uccs.edu/engineering",
+    "website": "https://www.uccs.edu",
+    "engineeringWebsite": "https://www.uccs.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Colorado_Colorado_Springs",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering and Applied Science"
   },
   {
     "id": "university-of-massachusetts-dartmouth",
@@ -7615,9 +6026,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7625,10 +6037,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "University of Massachusetts Dartmouth is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://umassd.edu",
-    "engineeringWebsite": "https://umassd.edu/engineering",
+    "website": "https://www.umassd.edu",
+    "engineeringWebsite": "https://www.umassd.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Massachusetts_Dartmouth",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "UMass Dartmouth College of Engineering"
   },
   {
     "id": "university-of-michigan-dearborn",
@@ -7641,9 +6054,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7654,137 +6068,8 @@
     "website": "https://umdearborn.edu",
     "engineeringWebsite": "https://umdearborn.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Michigan–Dearborn",
-    "qsRank": null
-  },
-  {
-    "id": "university-of-missourist-louis",
-    "name": "University of Missouri–St. Louis",
-    "location": {
-      "city": "St. Louis",
-      "state": "MO",
-      "stateName": "Missouri"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "University of Missouri–St. Louis is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.umsl.edu",
-    "engineeringWebsite": "https://www.umsl.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Missouri–St._Louis",
-    "qsRank": null
-  },
-  {
-    "id": "university-of-nebraska-omaha",
-    "name": "University of Nebraska Omaha",
-    "location": {
-      "city": "Omaha",
-      "state": "NE",
-      "stateName": "Nebraska"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "University of Nebraska Omaha is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.unomaha.edu",
-    "engineeringWebsite": "https://www.unomaha.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Nebraska_Omaha",
-    "qsRank": null
-  },
-  {
-    "id": "university-of-new-england",
-    "name": "University of New England",
-    "location": {
-      "city": "Biddeford",
-      "state": "ME",
-      "stateName": "Maine"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "University of New England is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.une.edu",
-    "engineeringWebsite": "http://www.une.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_New_England_(United_States)",
-    "qsRank": null
-  },
-  {
-    "id": "university-of-north-carolina-at-greensboro",
-    "name": "University of North Carolina at Greensboro",
-    "location": {
-      "city": "Greensboro",
-      "state": "NC",
-      "stateName": "North Carolina"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "University of North Carolina at Greensboro is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.uncg.edu",
-    "engineeringWebsite": "http://www.uncg.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Greensboro",
-    "qsRank": null
-  },
-  {
-    "id": "university-of-north-carolina-wilmington",
-    "name": "University of North Carolina Wilmington",
-    "location": {
-      "city": "Wilmington",
-      "state": "NC",
-      "stateName": "North Carolina"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "University of North Carolina Wilmington is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.uncw.edu",
-    "engineeringWebsite": "http://www.uncw.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_North_Carolina_Wilmington",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering and Computer Science"
   },
   {
     "id": "university-of-north-florida",
@@ -7810,33 +6095,8 @@
     "website": "https://www.unf.edu",
     "engineeringWebsite": "https://www.unf.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_North_Florida",
-    "qsRank": null
-  },
-  {
-    "id": "university-of-northern-colorado",
-    "name": "University of Northern Colorado",
-    "location": {
-      "city": "Greeley",
-      "state": "CO",
-      "stateName": "Colorado"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "University of Northern Colorado is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://unco.edu",
-    "engineeringWebsite": "https://unco.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Northern_Colorado",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Computing, Engineering & Construction"
   },
   {
     "id": "university-of-puerto-rico-mayaguez",
@@ -7849,9 +6109,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7859,36 +6120,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "University of Puerto Rico, Mayaguez is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.uprm.edu",
-    "engineeringWebsite": "http://www.uprm.edu/engineering",
+    "website": "https://www.uprm.edu",
+    "engineeringWebsite": "https://www.uprm.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Puerto_Rico_at_Mayagüez",
-    "qsRank": null
-  },
-  {
-    "id": "university-of-puerto-rico-rio-piedras",
-    "name": "University of Puerto Rico, Rio Piedras",
-    "location": {
-      "city": "San Juan",
-      "state": "PR",
-      "stateName": "PR"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "University of Puerto Rico, Rio Piedras is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.uprrp.edu",
-    "engineeringWebsite": "http://www.uprrp.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Puerto_Rico,_Río_Piedras_Campus",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "UPRM College of Engineering"
   },
   {
     "id": "university-of-san-diego",
@@ -7914,33 +6150,8 @@
     "website": "https://www.sandiego.edu",
     "engineeringWebsite": "https://www.sandiego.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_San_Diego",
-    "qsRank": null
-  },
-  {
-    "id": "university-of-san-francisco",
-    "name": "University of San Francisco",
-    "location": {
-      "city": "San Francisco",
-      "state": "CA",
-      "stateName": "California"
-    },
-    "control": "Private",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The University of San Francisco (USF) is a private Jesuit university in San Francisco, California, United States. Founded in 1855, it has nearly 9,000 students pursuing undergraduate and graduate degrees in 59 major programs. In addition to its main campus in the Golden Gate area, it has satellite campuses in downtown San Francisco, Orange County, Sacramento, San Jose, and Santa Rosa.",
-    "website": "https://www.usfca.edu",
-    "engineeringWebsite": "https://www.usfca.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_San_Francisco",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Shiley-Marcos School of Engineering"
   },
   {
     "id": "university-of-south-alabama",
@@ -7953,9 +6164,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -7966,33 +6178,8 @@
     "website": "https://www.southalabama.edu",
     "engineeringWebsite": "https://www.southalabama.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_South_Alabama",
-    "qsRank": null
-  },
-  {
-    "id": "university-of-south-dakota",
-    "name": "University of South Dakota",
-    "location": {
-      "city": "Vermillion",
-      "state": "SD",
-      "stateName": "South Dakota"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "University of South Dakota is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.usd.edu",
-    "engineeringWebsite": "https://www.usd.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_South_Dakota",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "South Alabama College of Engineering"
   },
   {
     "id": "university-of-tulsa",
@@ -8005,9 +6192,10 @@
     "control": "Private",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -8018,7 +6206,8 @@
     "website": "https://utulsa.edu",
     "engineeringWebsite": "https://utulsa.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Tulsa",
-    "qsRank": null
+    "qsRank": 801,
+    "engineeringSchool": "Tulsa College of Engineering & Natural Sciences"
   },
   {
     "id": "villanova-university",
@@ -8032,9 +6221,10 @@
     "control": "Private",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -8045,7 +6235,7 @@
     "website": "https://www1.villanova.edu",
     "engineeringWebsite": "https://www1.villanova.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Villanova_University",
-    "qsRank": null
+    "qsRank": 751
   },
   {
     "id": "virginia-state-university",
@@ -8071,33 +6261,8 @@
     "website": "https://www.vsu.edu",
     "engineeringWebsite": "https://www.vsu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Virginia_State_University",
-    "qsRank": null
-  },
-  {
-    "id": "west-chester-university-of-pennsylvania",
-    "name": "West Chester University of Pennsylvania",
-    "location": {
-      "city": "West Chester",
-      "state": "PA",
-      "stateName": "Pennsylvania"
-    },
-    "control": "Public",
-    "carnegieClassification": "R2: High Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "West Chester University of Pennsylvania is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.wcupa.edu",
-    "engineeringWebsite": "http://www.wcupa.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/West_Chester_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "College of Engineering and Technology"
   },
   {
     "id": "western-michigan-university",
@@ -8110,9 +6275,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -8123,7 +6289,8 @@
     "website": "https://wmich.edu",
     "engineeringWebsite": "https://wmich.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Michigan_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "WMU College of Engineering and Applied Sciences"
   },
   {
     "id": "wichita-state-university",
@@ -8136,9 +6303,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -8149,7 +6317,8 @@
     "website": "https://www.wichita.edu",
     "engineeringWebsite": "https://www.wichita.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Wichita_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "Wichita State College of Engineering"
   },
   {
     "id": "wright-state-university",
@@ -8162,9 +6331,10 @@
     "control": "Public",
     "carnegieClassification": "R2: High Research Activity",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -8172,10 +6342,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Wright State University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.wright.edu",
-    "engineeringWebsite": "http://www.wright.edu/engineering",
+    "website": "https://www.wright.edu",
+    "engineeringWebsite": "https://www.wright.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Wright_State_University",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering and Computer Science"
   },
   {
     "id": "california-polytechnic-state-university-san-luis-obispo",
@@ -8228,7 +6399,8 @@
     "website": "https://www.humboldt.edu",
     "engineeringWebsite": "https://www.humboldt.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/California_State_Polytechnic_University,_Humboldt",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "College of Natural Resources and Sciences (Engineering)"
   },
   {
     "id": "capitol-technology-university",
@@ -8241,9 +6413,10 @@
     "control": "Private",
     "carnegieClassification": "Doctoral/Professional Universities",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -8251,62 +6424,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Capitol Technology University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.capitol-college.edu",
-    "engineeringWebsite": "http://www.capitol-college.edu/engineering",
+    "website": "https://www.captechu.edu",
+    "engineeringWebsite": "https://www.captechu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Capitol_Technology_University",
-    "qsRank": null
-  },
-  {
-    "id": "colorado-technical-university",
-    "name": "Colorado Technical University",
-    "location": {
-      "city": "Colorado Springs",
-      "state": "Colorado",
-      "stateName": "Colorado"
-    },
-    "control": "Private",
-    "carnegieClassification": "Doctoral Universities: Moderate Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Colorado Technical University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.coloradotech.edu/colorado-springs",
-    "engineeringWebsite": "http://www.coloradotech.edu/colorado-springs/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Colorado_Technical_University",
-    "qsRank": null
-  },
-  {
-    "id": "digipen-institute-of-technology",
-    "name": "DigiPen Institute of Technology",
-    "location": {
-      "city": "Redmond",
-      "state": "Washington",
-      "stateName": "Washington"
-    },
-    "control": "Private",
-    "carnegieClassification": "Baccalaureate Colleges: Diverse Fields",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "DigiPen Institute of Technology is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.digipen.edu",
-    "engineeringWebsite": "https://www.digipen.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/DigiPen_Institute_of_Technology",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "School of Engineering and Computer Science"
   },
   {
     "id": "florida-polytechnic-university",
@@ -8329,116 +6451,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Florida Polytechnic University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://floridapolytechnic.org",
-    "engineeringWebsite": "http://floridapolytechnic.org/engineering",
+    "website": "https://floridapoly.edu",
+    "engineeringWebsite": "https://floridapoly.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Florida_Polytechnic_University",
-    "qsRank": null
-  },
-  {
-    "id": "franklin-w-olin-college-of-engineering",
-    "name": "Franklin W. Olin College of Engineering",
-    "engineeringSchool": "Franklin W. Olin College of Engineering College of Engineering",
-    "location": {
-      "city": "Needham",
-      "state": "Massachusetts",
-      "stateName": "Massachusetts"
-    },
-    "control": "Private",
-    "carnegieClassification": "Special Focus Four-Year: Engineering Schools",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "The Franklin W. Olin College of Engineering, commonly known as the Olin College of Engineering, is a private college for engineering in Needham, Massachusetts, United States. It was founded in 1997. The college's endowment had been funded primarily by the 2005-defunct F. W. Olin Foundation.",
-    "website": "https://www.franklin-w-olin-of-engineering.edu",
-    "engineeringWebsite": "https://www.franklin-w-olin-of-engineering.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Franklin_W._Olin_College_of_Engineering",
-    "qsRank": null
-  },
-  {
-    "id": "georgia-institute-of-technology",
-    "name": "Georgia Institute of Technology",
-    "engineeringSchool": "Georgia Tech College of Engineering",
-    "location": {
-      "city": "Atlanta",
-      "state": "Georgia",
-      "stateName": "Georgia"
-    },
-    "control": "Public",
-    "carnegieClassification": "Doctoral Universities: Highest Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Georgia Institute of Technology is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.gatech.edu",
-    "engineeringWebsite": "https://www.gatech.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Georgia_Institute_of_Technology",
-    "qsRank": 114
-  },
-  {
-    "id": "harrisburg-university-of-science-and-technology",
-    "name": "Harrisburg University of Science and Technology",
-    "location": {
-      "city": "Harrisburg",
-      "state": "Pennsylvania",
-      "stateName": "Pennsylvania"
-    },
-    "control": "Private",
-    "carnegieClassification": "Master's Colleges & Universities: Small Programs",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Harrisburg University of Science and Technology is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.harrisburgu.edu",
-    "engineeringWebsite": "http://www.harrisburgu.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Harrisburg_University_of_Science_and_Technology",
-    "qsRank": null
-  },
-  {
-    "id": "harvey-mudd-college",
-    "name": "Harvey Mudd College",
-    "location": {
-      "city": "Claremont",
-      "state": "California",
-      "stateName": "California"
-    },
-    "control": "Private",
-    "carnegieClassification": "Doctoral Universities: Higher Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Harvey Mudd College is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.harvey-mudd.edu",
-    "engineeringWebsite": "https://www.harvey-mudd.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Harvey_Mudd_College",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "Florida Poly Department of Engineering"
   },
   {
     "id": "indiana-institute-of-technology",
@@ -8464,33 +6481,8 @@
     "website": "https://www.indianatech.edu",
     "engineeringWebsite": "https://www.indianatech.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Indiana_Institute_of_Technology",
-    "qsRank": null
-  },
-  {
-    "id": "iowa-state-university-of-science-and-technology",
-    "name": "Iowa State University of Science and Technology",
-    "location": {
-      "city": "Ames",
-      "state": "Iowa",
-      "stateName": "Iowa"
-    },
-    "control": "Public",
-    "carnegieClassification": "Doctoral Universities: Highest Research Activity",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Iowa State University of Science and Technology is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.iowa-state-of-science-and-technology.edu",
-    "engineeringWebsite": "https://www.iowa-state-of-science-and-technology.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Iowa_State_University_of_Science_and_Technology",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "Talwar College of Engineering and Computer Sciences"
   },
   {
     "id": "kettering-university",
@@ -8513,10 +6505,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Kettering University is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.kettering.edu",
-    "engineeringWebsite": "http://www.kettering.edu/engineering",
+    "website": "https://www.kettering.edu",
+    "engineeringWebsite": "https://www.kettering.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Kettering_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "Kettering College of Engineering"
   },
   {
     "id": "lawrence-technological-university",
@@ -8529,9 +6522,10 @@
     "control": "Private",
     "carnegieClassification": "Master's Colleges & Universities: Larger Programs",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -8542,12 +6536,13 @@
     "website": "https://www.ltu.edu",
     "engineeringWebsite": "https://www.ltu.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Lawrence_Technological_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "College of Engineering"
   },
   {
     "id": "milwaukee-school-of-engineering",
     "name": "Milwaukee School of Engineering",
-    "engineeringSchool": "Milwaukee School of Engineering School of Engineering",
+    "engineeringSchool": "MSOE Engineering Faculty",
     "location": {
       "city": "Milwaukee",
       "state": "Wisconsin",
@@ -8569,7 +6564,7 @@
     "website": "https://www.msoe.edu",
     "engineeringWebsite": "https://www.msoe.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Milwaukee_School_of_Engineering",
-    "qsRank": null
+    "qsRank": 1201
   },
   {
     "id": "montana-technological-university",
@@ -8592,36 +6587,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Montana Technological University, popularly known as Montana Tech, is a public university in Butte, Montana. Founded in 1900 as the \"Montana State School of Mines\", the university became affiliated with the University of Montana in 1994. After undergoing several name changes, in 2017 the Montana University System Board of Regents voted to designate Montana Tech as part of Special Focus Four-Year Universities, the only such designation in the Montana University System. To recognize this new designation and the greater independence with it, the name was officially changed in 2018 from \"Montana Tech of the University of Montana\" to \"Montana Technological University\". Montana Tech's focus is on engineering, applied and health science.",
-    "website": "https://www.mtech.edu",
-    "engineeringWebsite": "https://www.mtech.edu/engineering",
+    "website": "https://mtech.edu",
+    "engineeringWebsite": "https://mtech.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Montana_Technological_University",
-    "qsRank": null
-  },
-  {
-    "id": "new-england-institute-of-technology",
-    "name": "New England Institute of Technology",
-    "location": {
-      "city": "East Greenwich",
-      "state": "Rhode Island",
-      "stateName": "Rhode Island"
-    },
-    "control": "Private",
-    "carnegieClassification": "Master's Colleges & Universities: Smaller Programs",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "New England Institute of Technology is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.new-england-of-technology.edu",
-    "engineeringWebsite": "https://www.new-england-of-technology.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/New_England_Institute_of_Technology",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "School of Mines and Engineering"
   },
   {
     "id": "new-mexico-institute-of-mining-and-technology",
@@ -8634,9 +6604,10 @@
     "control": "Public",
     "carnegieClassification": "Master's Colleges & Universities: Small Programs",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -8644,10 +6615,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "The New Mexico Institute of Mining and Technology is a public university in Socorro, New Mexico, United States.",
-    "website": "http://www.nmt.edu",
-    "engineeringWebsite": "http://www.nmt.edu/engineering",
+    "website": "https://www.nmt.edu",
+    "engineeringWebsite": "https://www.nmt.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "New Mexico Tech Engineering Division"
   },
   {
     "id": "new-york-institute-of-technology",
@@ -8660,9 +6632,10 @@
     "control": "Private",
     "carnegieClassification": "Master's Colleges & Universities: Larger Programs",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -8673,7 +6646,8 @@
     "website": "https://www.nyit.edu",
     "engineeringWebsite": "https://www.nyit.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/New_York_Institute_of_Technology",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "College of Engineering and Computing Sciences"
   },
   {
     "id": "oregon-institute-of-technology",
@@ -8696,10 +6670,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "The Oregon Institute of Technology is a public college in Oregon with a residential campus in Klamath Falls, Oregon, an urban campus in Wilsonville, Oregon, and additional locations in Salem and Seattle. Almost all students complete externships, co-ops, or other hands-on training inside and outside the classroom.",
-    "website": "http://www.oit.edu",
-    "engineeringWebsite": "http://www.oit.edu/engineering",
+    "website": "https://www.oit.edu",
+    "engineeringWebsite": "https://www.oit.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Oregon_Institute_of_Technology",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "Oregon Tech College of Engineering, Technology, and Management"
   },
   {
     "id": "polytechnic-university-of-puerto-rico",
@@ -8722,14 +6697,15 @@
       "Civil & Environmental Engineering"
     ],
     "description": "Polytechnic University of Puerto Rico is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.pupr.edu",
-    "engineeringWebsite": "http://www.pupr.edu/engineering",
+    "website": "https://www.pupr.edu",
+    "engineeringWebsite": "https://www.pupr.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Polytechnic_University_of_Puerto_Rico",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "PUPR School of Engineering"
   },
   {
     "id": "rosehulman-institute-of-technology",
-    "name": "Rose–Hulman Institute of Technology",
+    "name": "Rose-Hulman Institute of Technology",
     "location": {
       "city": "Terre Haute",
       "state": "Indiana",
@@ -8751,7 +6727,8 @@
     "website": "https://www.rose-hulman.edu",
     "engineeringWebsite": "https://www.rose-hulman.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Rose–Hulman_Institute_of_Technology",
-    "qsRank": 1201
+    "qsRank": 1201,
+    "engineeringSchool": "Rose-Hulman Institute of Technology"
   },
   {
     "id": "south-dakota-school-of-mines-and-technology",
@@ -8764,9 +6741,10 @@
     "control": "Public",
     "carnegieClassification": "Special Focus Four-Year: Engineering Schools",
     "degreeLevels": [
-      "MSc"
+      "MSc",
+      "PhD"
     ],
-    "degreeType": "MSc Only",
+    "degreeType": "Both",
     "engineeringDisciplines": [
       "Computer Science & Engineering",
       "Electrical & Computer Engineering",
@@ -8774,10 +6752,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "South Dakota School of Mines and Technology is a leading institution in higher education offering graduate engineering programs.",
-    "website": "https://www.sdsmt.edu/index.html",
-    "engineeringWebsite": "https://www.sdsmt.edu/index.html/engineering",
+    "website": "https://www.sdsmt.edu",
+    "engineeringWebsite": "https://www.sdsmt.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Dakota_School_of_Mines_and_Technology",
-    "qsRank": null
+    "qsRank": 1001,
+    "engineeringSchool": "South Dakota Mines Engineering Division"
   },
   {
     "id": "state-university-of-new-york-polytechnic-institute",
@@ -8803,7 +6782,8 @@
     "website": "https://sunypoly.edu",
     "engineeringWebsite": "https://sunypoly.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/State_University_of_New_York_Polytechnic_Institute",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "SUNY Poly College of Engineering"
   },
   {
     "id": "university-of-wisconsinstout-polytechnic",
@@ -8826,36 +6806,11 @@
       "Civil & Environmental Engineering"
     ],
     "description": "University of Wisconsin–Stout Polytechnic is a leading institution in higher education offering graduate engineering programs.",
-    "website": "http://www.uwstout.edu",
-    "engineeringWebsite": "http://www.uwstout.edu/engineering",
+    "website": "https://www.uwstout.edu",
+    "engineeringWebsite": "https://www.uwstout.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/University_of_Wisconsin–Stout_Polytechnic",
-    "qsRank": null
-  },
-  {
-    "id": "utah-tech-university",
-    "name": "Utah Tech University",
-    "location": {
-      "city": "St. George",
-      "state": "Utah",
-      "stateName": "Utah"
-    },
-    "control": "Public",
-    "carnegieClassification": "Baccalaureate/Associate's College",
-    "degreeLevels": [
-      "MSc"
-    ],
-    "degreeType": "MSc Only",
-    "engineeringDisciplines": [
-      "Computer Science & Engineering",
-      "Electrical & Computer Engineering",
-      "Mechanical Engineering",
-      "Civil & Environmental Engineering"
-    ],
-    "description": "Utah Tech University (UT), formerly Dixie State University (DSU), is a public polytechnic university in St. George, Utah, United States. UT offers doctoral degrees, master's degrees, bachelor's degrees, associate degrees, and certifications. As of fall 2022, there were 12,556 students enrolled at UT.",
-    "website": "https://utahtech.edu",
-    "engineeringWebsite": "https://utahtech.edu/engineering",
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Utah_Tech_University",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "College of Science, Technology, Engineering, Mathematics and Management"
   },
   {
     "id": "wentworth-institute-of-technology",
@@ -8881,6 +6836,7 @@
     "website": "https://wit.edu",
     "engineeringWebsite": "https://wit.edu/engineering",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Wentworth_Institute_of_Technology",
-    "qsRank": null
+    "qsRank": 1201,
+    "engineeringSchool": "School of Engineering"
   }
 ]
