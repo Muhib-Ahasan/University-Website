@@ -8,6 +8,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "scrape": "tsx scripts/run-scraper.ts",
+    "scrape:clean": "tsx scripts/clean-dataset.ts",
+    "scrape:rankings": "tsx scripts/fix-websites-and-rankings.ts",
     "test:flare": "tsx scripts/test-flaresolverr.ts",
     "format": "biome format --write .",
     "lint": "biome check ."
